@@ -10,7 +10,7 @@ metadata:
 next:
   description: ''
 ---
-## Required Material
+## Required Materials
 
 - Raspberry Pi 3B+
 - 5V 2A Micro-USB Power Supply
