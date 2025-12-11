@@ -12,7 +12,11 @@ metadata:
   description: ''
   robots: noindex
 next:
-  description: ''
+  pages:
+    - title: US-D1 Hardware Questions
+      type: link
+      url: >-
+        https://docs.google.com/document/d/e/2PACX-1vR5j4i2TEFqEm6VpL-2dhKitGw9VnJVrXk-MMaYOpI0ydCvjOwvbnAEhCc-aYc6eD_kYXY9zGXFEmOG/pub
 ---
 [block:embed]
 {
@@ -20,7 +24,23 @@ next:
   "url": "https://docs.google.com/document/d/e/2PACX-1vT4BH5pq4lVC0vn2nVFt2mnW2mO3zzGnf4HgunfHqh1xDjUwph91z4msFLUUIlsKg/pub",
   "title": "Copy of Traffic_Computer_Software_User_Manual(v1.0.1)_ReadMe.docx",
   "favicon": "https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico",
-  "image": "https://lh6.googleusercontent.com/cdS0wOuHyudEGhFsyYOyPyDx0O3-sRjVp0HweMo3i2yA3wn5OlGniZ7I_U0wkPHTVkvD48iZwH681n6RCJ0tdoOmSQJAyw_2N_eF62IIN4y8qv0opPI1VvnuWtmabBr5"
+  "image": "https://lh6.googleusercontent.com/cdS0wOuHyudEGhFsyYOyPyDx0O3-sRjVp0HweMo3i2yA3wn5OlGniZ7I_U0wkPHTVkvD48iZwH681n6RCJ0tdoOmSQJAyw_2N_eF62IIN4y8qv0opPI1VvnuWtmabBr5",
+  "provider": "docs.google.com",
+  "href": "https://docs.google.com/document/d/e/2PACX-1vT4BH5pq4lVC0vn2nVFt2mnW2mO3zzGnf4HgunfHqh1xDjUwph91z4msFLUUIlsKg/pub"
 }
 [/block]
+
+
 API and SDK have their own Reference. Plan to include sample code there as well.
+
+<br />
+
+[block:embed]
+{
+  "url": "https://docs.google.com/document/d/e/2PACX-1vR5j4i2TEFqEm6VpL-2dhKitGw9VnJVrXk-MMaYOpI0ydCvjOwvbnAEhCc-aYc6eD_kYXY9zGXFEmOG/pub",
+  "title": "Your Document Title",
+  "favicon": "https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico",
+  "provider": "docs.google.com",
+  "href": "https://docs.google.com/document/d/YOUR_DOC_ID/pub"
+}
+[/block]
