@@ -11,22 +11,16 @@ metadata:
   title: ''
   description: ''
   robots: noindex
-next:
-  pages:
-    - title: US-D1 Hardware Questions
-      type: link
-      url: >-
-        https://docs.google.com/document/d/e/2PACX-1vR5j4i2TEFqEm6VpL-2dhKitGw9VnJVrXk-MMaYOpI0ydCvjOwvbnAEhCc-aYc6eD_kYXY9zGXFEmOG/pub
 ---
 [block:embed]
 {
-  "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2Fe%2F2PACX-1vT4BH5pq4lVC0vn2nVFt2mnW2mO3zzGnf4HgunfHqh1xDjUwph91z4msFLUUIlsKg%2Fpub%3Fembedded%3Dtrue&display_name=Google+Docs&url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2Fe%2F2PACX-1vT4BH5pq4lVC0vn2nVFt2mnW2mO3zzGnf4HgunfHqh1xDjUwph91z4msFLUUIlsKg%2Fpub&image=https%3A%2F%2Flh6.googleusercontent.com%2FcdS0wOuHyudEGhFsyYOyPyDx0O3-sRjVp0HweMo3i2yA3wn5OlGniZ7I_U0wkPHTVkvD48iZwH681n6RCJ0tdoOmSQJAyw_2N_eF62IIN4y8qv0opPI1VvnuWtmabBr5&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&scroll=auto&schema=google\" width=\"700\" height=\"530\" scrolling=\"auto\" title=\"Google Docs embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"></iframe>",
-  "url": "https://docs.google.com/document/d/e/2PACX-1vT4BH5pq4lVC0vn2nVFt2mnW2mO3zzGnf4HgunfHqh1xDjUwph91z4msFLUUIlsKg/pub",
-  "title": "Copy of Traffic_Computer_Software_User_Manual(v1.0.1)_ReadMe.docx",
-  "favicon": "https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico",
-  "image": "https://lh6.googleusercontent.com/cdS0wOuHyudEGhFsyYOyPyDx0O3-sRjVp0HweMo3i2yA3wn5OlGniZ7I_U0wkPHTVkvD48iZwH681n6RCJ0tdoOmSQJAyw_2N_eF62IIN4y8qv0opPI1VvnuWtmabBr5",
-  "provider": "docs.google.com",
-  "href": "https://docs.google.com/document/d/e/2PACX-1vT4BH5pq4lVC0vn2nVFt2mnW2mO3zzGnf4HgunfHqh1xDjUwph91z4msFLUUIlsKg/pub"
+  "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F13im1g0QXTAtJUb_GoXPi3v53gOTfA9WAMqTXiNmQJKI%2Fpreview%3Fembedded%3Dtrue&display_name=Google+Docs&url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F13im1g0QXTAtJUb_GoXPi3v53gOTfA9WAMqTXiNmQJKI%2Fedit%3Ftab%3Dt.0&image=https%3A%2F%2Flh7-us.googleusercontent.com%2Fdocs%2FAHkbwyJHK0mMBHvDyfCoaMwWqdHSZyVMVhr8spq4FP4kIeojTOoLjBbDdGXR7-oydKxKqhIsymweAlI4jx_riBG6kH7p2-gik5FvIEQG1K9A21sFeNLFOP5K%3Dw1200-h630-p&type=text%2Fhtml&scroll=auto&schema=google\" width=\"700\" height=\"530\" scrolling=\"auto\" title=\"Google Docs embed\" frameborder=\"0\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"></iframe>",
+  "url": "https://docs.google.com/document/d/13im1g0QXTAtJUb_GoXPi3v53gOTfA9WAMqTXiNmQJKI/edit?tab=t.0",
+  "title": "Ainstein US-D1 Hardware Support Questions",
+  "favicon": "https://ssl.gstatic.com/docs/documents/images/kix-favicon-2023q4.ico",
+  "image": "https://lh7-us.googleusercontent.com/docs/AHkbwyJHK0mMBHvDyfCoaMwWqdHSZyVMVhr8spq4FP4kIeojTOoLjBbDdGXR7-oydKxKqhIsymweAlI4jx_riBG6kH7p2-gik5FvIEQG1K9A21sFeNLFOP5K=w1200-h630-p",
+  "provider": "http://docs.google.com",
+  "href": "https://docs.google.com/document/d/13im1g0QXTAtJUb_GoXPi3v53gOTfA9WAMqTXiNmQJKI/edit?tab=t.0"
 }
 [/block]
 
@@ -41,6 +35,6 @@ API and SDK have their own Reference. Plan to include sample code there as well.
   "title": "Your Document Title",
   "favicon": "https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico",
   "provider": "docs.google.com",
-  "href": "https://docs.google.com/document/d/YOUR_DOC_ID/pub"
+  "href": "https://docs.google.com/document/d/e/2PACX-1vR5j4i2TEFqEm6VpL-2dhKitGw9VnJVrXk-MMaYOpI0ydCvjOwvbnAEhCc-aYc6eD_kYXY9zGXFEmOG/pub"
 }
 [/block]
