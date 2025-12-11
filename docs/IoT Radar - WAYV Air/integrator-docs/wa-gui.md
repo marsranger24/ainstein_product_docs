@@ -42,9 +42,11 @@ API and SDK have their own Reference. Plan to include sample code there as well.
 
 <br />
 
+<br />
+
 [block:embed]
 {
-  "html": "<iframe src=\"https://docs.google.com/document/d/e/2PACX-1vR5j4i2TEFqEm6VpL-2dhKitGw9VnJVrXk-MMaYOpI0ydCvjOwvbnAEhCc-aYc6eD_kYXY9zGXFEmOG/pub?embedded=true\" width=\"700\" height=\"530\" frameborder=\"0\"></iframe>",
+  "html": "<iframe src=\"https://docs.google.com/document/d/e/2PACX-1vR5j4i2TEFqEm6VpL-2dhKitGw9VnJVrXk-MMaYOpI0ydCvjOwvbnAEhCc-aYc6eD_kYXY9zGXFEmOG/pub?embedded=true\" width=\"700\" height=\"530\" frameborder=\"0\" allowfullscreen></iframe>",
   "url": "https://docs.google.com/document/d/e/2PACX-1vR5j4i2TEFqEm6VpL-2dhKitGw9VnJVrXk-MMaYOpI0ydCvjOwvbnAEhCc-aYc6eD_kYXY9zGXFEmOG/pub",
   "title": "Traffic Computer Software User Manual",
   "provider": "docs.google.com",
