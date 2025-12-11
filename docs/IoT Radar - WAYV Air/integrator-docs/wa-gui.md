@@ -54,6 +54,7 @@ API and SDK have their own Reference. Plan to include sample code there as well.
 }
 [/block]
 
+
 # Ainstein US-D1 Hardware Support Questions
 
 ## Table of Contents {#table-of-contents}
@@ -64,51 +65,51 @@ API and SDK have their own Reference. Plan to include sample code there as well.
 
 [US-D1 Low altitude discrepancy/Multipath Reflections	3](#us-d1-low-altitude-discrepancy/multipath-reflections)
 
-[I.	3](#i.)
+[I. What are common causes of noisy or incorrect data from the US-D1?	3](#what-are-common-causes-of-noisy-or-incorrect-data-from-the-us-d1?)
 
 [US-D1 Cable Length	4](#us-d1-cable-length)
 
-[I.	4](#i.-1)
+[I.  What is the maximum allowable cable length for the US-D1?	4](#i.-what-is-the-maximum-allowable-cable-length-for-the-us-d1?)
 
 [US-D1 Connector/Connection	4](#us-d1-connector/connection)
 
-[I.	4](#i.-2)
+[I. What connector is used on the US-D1, and what is the suggested mating connector?	4](#what-connector-is-used-on-the-us-d1,-and-what-is-the-suggested-mating-connector?)
 
-[II.	4](#ii.)
+[II. How is the radar properly connected to the firmware update tool to receive output from the software?	4](#how-is-the-radar-properly-connected-to-the-firmware-update-tool-to-receive-output-from-the-software?)
 
-[US-D1 Out of Range	5](#us-d1-out-of-range)
+[I. What is the expected sensor output in meters when the measurement is out of range, and is it normal for that reading to be non-zero?	5](#what-is-the-expected-sensor-output-in-meters-when-the-measurement-is-out-of-range,-and-is-it-normal-for-that-reading-to-be-non-zero?)
 
-[I.	5](#i.-3)
+[US-D1 Flight Over Terrain	5](#us-d1-flight-over-terrain)
 
-[US-D1 Flight Over Water	5](#us-d1-flight-over-terrain)
+[I. What is the performance information when flying over water for the US-D1 model? How much does the accuracy and range typically lose?	5](#what-is-the-performance-information-when-flying-over-water-for-the-us-d1-model?-how-much-does-the-accuracy-and-range-typically-lose?)
 
-[I.	5](#i.-4)
+[I. What causes the altitude of the radar to change when transitioning between different terrains?	5](#what-causes-the-altitude-of-the-radar-to-change-when-transitioning-between-different-terrains?)
 
 [US-D1 Radar Altimetry for Seaplanes	6](#us-d1-radar-altimetry-for-seaplanes)
 
-[I.	6](#i.-5)
+[I.  What are the capabilities of the US-D1 being mounted on the landing gear of a manned aircraft for both water and land takeoffs and landings?	6](#i.-what-are-the-capabilities-of-the-us-d1-being-mounted-on-the-landing-gear-of-a-manned-aircraft-for-both-water-and-land-takeoffs-and-landings?)
 
 [US-D1 Installation Orientation/Mounting/Field of View	6](#us-d1-installation-orientation/mounting/field-of-view)
 
-[I.	6](#i.-6)
+[I. Is the US-D1 able to be tuned to be carried internally to the fuselage of the UAV (i.e., measuring through a 1/16" wall of polymer), or does it always need to be externally mounted?	6](#is-the-us-d1-able-to-be-tuned-to-be-carried-internally-to-the-fuselage-of-the-uav-\(i.e.,-measuring-through-a-1/16"-wall-of-polymer\),-or-does-it-always-need-to-be-externally-mounted?)
 
-[II.	6](#ii.-1)
+[II. Can the radar altimeter be used for a collision avoidance system?	6](#can-the-radar-altimeter-be-used-for-a-collision-avoidance-system?)
 
-[III.	7](#iii.)
+[III. How do the view distances change for different angles? For example, if the radar is placed at a 90-degree angle to the nose.	7](#how-do-the-view-distances-change-for-different-angles?-for-example,-if-the-radar-is-placed-at-a-90-degree-angle-to-the-nose.)
 
-[IV.	7](#iv.)
+[IV. Does the radar altimeter system warn users about natural obstacles (i.e. mountains, birds, etc.) and aircraft such as UAVs or airplanes?	7](#does-the-radar-altimeter-system-warn-users-about-natural-obstacles-\(i.e.-mountains,-birds,-etc.\)-and-aircraft-such-as-uavs-or-airplanes?)
 
-[V.	7](#v.)
+[V. How does the return value of the radar degrade as the angle relative to the ground changes, and at what angle should the data no longer be relied upon (i.e. a drone pitches forward and changes the radar’s angle relative to the ground by up to 20 degrees)?	7](#how-does-the-return-value-of-the-radar-degrade-as-the-angle-relative-to-the-ground-changes,-and-at-what-angle-should-the-data-no-longer-be-relied-upon-\(i.e.-a-drone-pitches-forward-and-changes-the-radar’s-angle-relative-to-the-ground-by-up-to-20-degrees\)?)
 
-[VI.	8](#vi.)
+[VI. What effects can be expected when using the radar altimeter close to propellers?	9](#what-effects-can-be-expected-when-using-the-radar-altimeter-close-to-propellers?)
 
 [US-D1 Temperature/Pressure/Shock/Vibration Specifications	9](#us-d1-temperature/pressure/shock/vibration-specifications)
 
-[I.	9](#i.-7)
+[I. What is the radar altimeter’s survival after exposure to storage temperature?	9](#what-is-the-radar-altimeter’s-survival-after-exposure-to-storage-temperature?)
 
-[II.	9](#ii.-2)
+[II. Has the operation of the US-D1 been verified at temperatures lower than \-20 degrees Celsius?	10](#has-the-operation-of-the-us-d1-been-verified-at-temperatures-lower-than--20-degrees-celsius?)
 
-[III.	10](#iii.-1)
+[III. Is the RALT designed to withstand salt atmosphere exposure? To prevent corrosion?	10](#is-the-ralt-designed-to-withstand-salt-atmosphere-exposure?-to-prevent-corrosion?)
 
 [Ground Test Procedure	10](#ground-test-procedure)
 
@@ -125,9 +126,7 @@ The shortest distance to the ground from the altimeter is generally the one prov
 
 ### **US-D1 Low altitude discrepancy/Multipath Reflections** {#us-d1-low-altitude-discrepancy/multipath-reflections}
 
-#### I. {#i.}
-
-What are common causes of noisy or incorrect data from the US-D1?
+1. #### What are common causes of noisy or incorrect data from the US-D1? {#what-are-common-causes-of-noisy-or-incorrect-data-from-the-us-d1?}
 
 1\. An indoor scenario may not be the ideal case to test the US-D1 radar, because there are too many unexpected objects that might affect the radar's performance (multi-path reflection). Moving to the outdoor scenario would be helpful.
 
@@ -137,17 +136,13 @@ What are common causes of noisy or incorrect data from the US-D1?
 
 ### **US-D1 Cable Length** {#us-d1-cable-length}
 
-#### I.  {#i.-1}
-
-What is the maximum allowable cable length for the US-D1?
+#### I.  What is the maximum allowable cable length for the US-D1? {#i.-what-is-the-maximum-allowable-cable-length-for-the-us-d1?}
 
 Only the offered options are 0.5m and 1m. Maximum length depends on the communication protocol. UART TTL allows for a maximum of 15 m, while CAN has a recommended maximum of 40 m.
 
 ### **US-D1 Connector/Connection** {#us-d1-connector/connection}
 
-#### I. {#i.-2}
-
-What connector is used on the US-D1, and what is the suggested mating connector?
+1. #### What connector is used on the US-D1, and what is the suggested mating connector? {#what-connector-is-used-on-the-us-d1,-and-what-is-the-suggested-mating-connector?}
 
 Connectors available for the US-D1, including mates:
 
@@ -160,9 +155,8 @@ Connectors available for the US-D1, including mates:
 
 It is recommended to use any 22 AWG shielded cabling.
 
-#### II. {#ii.}
+2. #### How is the radar properly connected to the firmware update tool to receive output from the software? {#how-is-the-radar-properly-connected-to-the-firmware-update-tool-to-receive-output-from-the-software?}
 
-How is the radar properly connected to the firmware update tool to receive output from the software?  
 To use the US-D1 Bench Test Tool GUI, a US-D1 with UART protocol is required, and it should be connected to a PC using a USB-UART TTL converter. Here are the steps to connect the USB-UART TTL converter:
 
 1\. Plug in the USB-TTL converter to the USB port.  
@@ -174,35 +168,25 @@ When connected to power, the US-D1 should boot at a current of 120 mA
 for \~6 seconds. After this, the US-D1 will operate at a current of 330 mA at 5V.  
 5\. Open the US-D1 Radar Altimeter Test Tool.
 
-III 
+**US-D1 Out of Range**
 
-### **US-D1 Out of Range** {#us-d1-out-of-range}
-
-#### I. {#i.-3}
-
-What is the expected sensor output in meters when the measurement is out of range, and is it normal for that reading to be non-zero?
+1. #### What is the expected sensor output in meters when the measurement is out of range, and is it normal for that reading to be non-zero? {#what-is-the-expected-sensor-output-in-meters-when-the-measurement-is-out-of-range,-and-is-it-normal-for-that-reading-to-be-non-zero?}
 
 Yes, this is normal. When the US-D1 is out of its maximum altitude range, the US-D1 will output its minimum measurement range at the edge of the radar blind zone, which is approximately 0.45m. In some instances, a “half height” value, which is a value between the height and 0, will be displayed. Additionally, when the US-D1 is utilized above its maximum altitude, the performance might be negatively affected by a variety of elements. One of the elements that could affect the performance is electronic feedback being received whilst out of range, which in turn provides inaccurate altitudes. The US-D1 will only be able to provide altitudes above its range when under ideal conditions.
 
 ### **US-D1 Flight Over Terrain** {#us-d1-flight-over-terrain}
 
-#### I. {#i.-4}
-
-What is the performance information when flying over water for the US-D1 model? How much does the accuracy and range typically lose?
+1. #### What is the performance information when flying over water for the US-D1 model? How much does the accuracy and range typically lose? {#what-is-the-performance-information-when-flying-over-water-for-the-us-d1-model?-how-much-does-the-accuracy-and-range-typically-lose?}
 
 Accuracy over water is a specific strength of radar altimeters compared with alternative telemetry equipment at lower altitudes.  Whereas light-based beams tend to penetrate through water, radar performance maintains high accuracy over water as on regular terrain. It is uncommon for radars to lose range fidelity over water.  Ainstein's radar altimeter, capable of ranges up to 50m (US-D1), often serves as complementary telemetry at lower altitudes under 200-300m, where GPS, Baro, or Optical technology may have difficulty.  Lower sea state levels offer optimum accuracy.
 
-#### I.
-
-What causes the altitude of the radar to change when transitioning between different terrains?
+1. #### What causes the altitude of the radar to change when transitioning between different terrains? {#what-causes-the-altitude-of-the-radar-to-change-when-transitioning-between-different-terrains?}
 
 Various terrains have different levels of reflectivity, causing the readings of the altitude to vary slightly. Additionally, transitioning between terrains with different densities of their foliage, such as a grass field to a forest, can cause the radar to change its readings. Depending on the density, the radar can vary between detecting the top and bottom of the foliage.
 
 ### **US-D1 Radar Altimetry for Seaplanes** {#us-d1-radar-altimetry-for-seaplanes}
 
-#### I.  {#i.-5}
-
-What are the capabilities of the US-D1 being mounted on the landing gear of a manned aircraft for both water and land takeoffs and landings?
+#### I.  What are the capabilities of the US-D1 being mounted on the landing gear of a manned aircraft for both water and land takeoffs and landings? {#i.-what-are-the-capabilities-of-the-us-d1-being-mounted-on-the-landing-gear-of-a-manned-aircraft-for-both-water-and-land-takeoffs-and-landings?}
 
 - The US-D1 is, like any sensor, subject to error when used improperly or on rare occasions when circumstances are unfavorable. For example, all radar sensors are subject to multipath propagation, which can result in erroneous measurements in altitude. Therefore, any application that can be life-threatening shall notshallshould not be reliant on one sensor alone. The US-D1 is ultimately a reference altimeter. Please consider using multiple sensors and/or sensor fusion to provide redundancy in altitude measurements and to account for adverse circumstances.   
 - Second, when operating in conditions that require precision, caution is advised, and it is recommended that users perform thorough in-flight testing to validate its performance prior to normal use. Although radar outperforms laser altimeters in measuring AGL altitude while flying over water, it is still subject to error in those circumstances.  
@@ -210,38 +194,30 @@ What are the capabilities of the US-D1 being mounted on the landing gear of a ma
 
 ### **US-D1 Installation Orientation/Mounting/Field of View** {#us-d1-installation-orientation/mounting/field-of-view}
 
-#### I. {#i.-6}
-
-Is the US-D1 able to be tuned to be carried internally to the fuselage of the UAV (i.e., measuring through a 1/16" wall of polymer), or does it always need to be externally mounted?
+1. #### Is the US-D1 able to be tuned to be carried internally to the fuselage of the UAV (i.e., measuring through a 1/16" wall of polymer), or does it always need to be externally mounted? {#is-the-us-d1-able-to-be-tuned-to-be-carried-internally-to-the-fuselage-of-the-uav-(i.e.,-measuring-through-a-1/16"-wall-of-polymer),-or-does-it-always-need-to-be-externally-mounted?}
 
 Ainstein always recommends keeping the radome free from blockage to ensure optimal performance. Also, it is recommended to keep the unit's field of view free from other components on the plane, such as the landing gear, to avoid any false reflections from them.
 
-#### II. {#ii.-1}
+2. #### Can the radar altimeter be used for a collision avoidance system? {#can-the-radar-altimeter-be-used-for-a-collision-avoidance-system?}
 
-Can the radar altimeter be used for a collision avoidance system?  
 The US-D1 was designed as a radar altimeter device and therefore provides altitude and SNR information to the user. Users are not advised to employ the US-D1 in collision avoidance applications, as they do not provide the functionality required for collision avoidance applications. 
 
-#### III. {#iii.}
+3. #### How do the view distances change for different angles? For example, if the radar is placed at a 90-degree angle to the nose. {#how-do-the-view-distances-change-for-different-angles?-for-example,-if-the-radar-is-placed-at-a-90-degree-angle-to-the-nose.}
 
-How do the view distances change for different angles? For example, if the radar is placed at a 90-degree angle to the nose.  
 The radar altimeter was designed to be mounted parallel to the terrain below, facing the ground. The US-D1’s maximum distance reading is \~50m, but this has not been tested with objects in front of the aircraft.
 
-#### IV. {#iv.}
+4. #### Does the radar altimeter system warn users about natural obstacles (i.e. mountains, birds, etc.) and aircraft such as UAVs or airplanes? {#does-the-radar-altimeter-system-warn-users-about-natural-obstacles-(i.e.-mountains,-birds,-etc.)-and-aircraft-such-as-uavs-or-airplanes?}
 
-Does the radar altimeter system warn users about natural obstacles (i.e. mountains, birds, etc.) and aircraft such as UAVs or airplanes?  
 The US-D1 does not provide classification for natural obstacles or other aircraft. Changes in detected altitude do allow users to be aware of changes in terrain, however.
 
-#### V. {#v.}
+5. #### How does the return value of the radar degrade as the angle relative to the ground changes, and at what angle should the data no longer be relied upon (i.e. a drone pitches forward and changes the radar’s angle relative to the ground by up to 20 degrees)? {#how-does-the-return-value-of-the-radar-degrade-as-the-angle-relative-to-the-ground-changes,-and-at-what-angle-should-the-data-no-longer-be-relied-upon-(i.e.-a-drone-pitches-forward-and-changes-the-radar’s-angle-relative-to-the-ground-by-up-to-20-degrees)?}
 
-How does the return value of the radar degrade as the angle relative to the ground changes, and at what angle should the data no longer be relied upon (i.e. a drone pitches forward and changes the radar’s angle relative to the ground by up to 20 degrees)?  
 The US-D1's field of view is 43° x 30°, as pictured below. Therefore, if the intent is to tilt the aircraft to a greater degree in a particular direction, it is recommended to orient the US-D1 to account for that.  
 ![][image2]  
 The 43° lobe width is the limit where the transmitted signal power is 25% of its maximum power (which is transmitted at the antenna's boresight). Generally, the recommendation is that the user does not exceed 21.5° of tilt for this reason. If there is a strong reflection (\> 6 dB) from somewhere out of 43 degrees, it still could affect the Radar's performance.  Large bodies allow for more multipath reflections to be received. However, the US-D1's performance at angles of tilt is dependent on the terrain below the aircraft as well as the altitude above the ground.   
 The simplest way to verify whether users are still getting good radar detection at higher angles of tilt is to check the SNR of the altitude values. If users are able to collect the SNR values when performing these maneuvers, they could simply ensure that these values are still above 13 dB, or, to be very safe, 20-30 dB.  When mounting the radars, try to mount them near the outside of the aircraft so that there is less chance for interference from multipath reflections.
 
-#### VI. {#vi.}
-
-What effects can be expected when using the radar altimeter close to propellers?
+6. #### What effects can be expected when using the radar altimeter close to propellers? {#what-effects-can-be-expected-when-using-the-radar-altimeter-close-to-propellers?}
 
 The radar altimeters could be impacted by the multipath reflection between the ground and the propulsion/rotor. Especially when the rotor is rotating, it will create a relative micro-movement in the multipath reflection and bring a Doppler frequency shift. It might couple with the range detection frequency and cause the wrong range reading. Some suggestions to help resolve this issue would be:
 
@@ -253,19 +229,16 @@ The radar altimeters could be impacted by the multipath reflection between the g
 
 ## **US-D1 Temperature/Pressure/Shock/Vibration Specifications** {#us-d1-temperature/pressure/shock/vibration-specifications}
 
-#### I. {#i.-7}
+1. #### What is the radar altimeter’s survival after exposure to storage temperature? {#what-is-the-radar-altimeter’s-survival-after-exposure-to-storage-temperature?}
 
-What is the radar altimeter’s survival after exposure to storage temperature?  
 It is recommended that the radar altimeter is stored at room temperature. The US-D1's operational temperature range is \-20°C to 65°C; therefore, if the RALT is stored within this range, it should not cause any damage to the unit.
 
-#### II. {#ii.-2}
+2. #### Has the operation of the US-D1 been verified at temperatures lower than \-20 degrees Celsius? {#has-the-operation-of-the-us-d1-been-verified-at-temperatures-lower-than--20-degrees-celsius?}
 
-Has the operation of the US-D1 been verified at temperatures lower than \-20 degrees Celsius?  
 The US-D1's operational temperature range is \-20°C to 65°C, as some of the components on the radar are commercial-grade components. Prolonged usage of the radar below \-20°C is not recommended.
 
-#### III. {#iii.-1}
+3. #### Is the RALT designed to withstand salt atmosphere exposure? To prevent corrosion? {#is-the-ralt-designed-to-withstand-salt-atmosphere-exposure?-to-prevent-corrosion?}
 
-Is the RALT designed to withstand salt atmosphere exposure? To prevent corrosion?  
 The US-D1 has an IP rating of IP67. It is, therefore, highly protected against dust and water exposure to the electronics. The enclosure of the US-D1 is resistant to corrosion by various salts. The US-D1 is well protected against surface corrosion.
 
 ### **Ground Test Procedure** {#ground-test-procedure}
