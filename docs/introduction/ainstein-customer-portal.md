@@ -4,13 +4,9 @@ deprecated: false
 hidden: false
 metadata:
   robots: index
-next:
-  description: |-
-
-    - Go to **WHY RADAR?** if you’re new to radar sensing
-    - Go to **PRODUCTS → your device → Quick Start** if you’re integrating today
 ---
 Welcome to the Ainstein Customer Portal. This site is the single source of truth for:
+
 - Product documentation and technical user manuals
 - Firmware and software tools
 - CAD (2D/3D) resources
@@ -34,9 +30,3 @@ For firmware/tools/CAD files, we publish:
 - Release date
 - Release notes
 - File checksum (recommended for controlled environments)
-
-## Definitions
-
-- **D1 / Pro**: indicates product variant (features and specs vary; see product Overview pages)
-- **GUI Tool**: a display/configuration application for live view and configuration
-- **Update Tool**: utility to install firmware and recover devices
