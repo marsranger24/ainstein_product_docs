@@ -1,5 +1,5 @@
 ---
-title: US-D1 Product Sheet
+title: US-D1 Pro Product Sheet
 deprecated: false
 hidden: true
 metadata:
