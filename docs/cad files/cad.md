@@ -1,5 +1,5 @@
 ---
-title: CAD
+title: CAD Download Table
 deprecated: false
 hidden: true
 metadata:
