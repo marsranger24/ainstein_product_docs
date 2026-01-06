@@ -1,5 +1,5 @@
 ---
-title: LR-D1 Pro Unboxing
+title: LR-D1 Unboxing
 excerpt: ''
 deprecated: false
 hidden: false
