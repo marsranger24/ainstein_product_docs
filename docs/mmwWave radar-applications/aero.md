@@ -1,5 +1,5 @@
 ---
-title: Aero
+title: Aerospace Applications
 deprecated: false
 hidden: true
 metadata:
