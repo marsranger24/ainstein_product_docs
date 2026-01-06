@@ -1,5 +1,5 @@
 ---
-title: LR-D1 Integrator Docs
+title: LR-D1 Product Sheet
 excerpt: ''
 deprecated: false
 hidden: false
