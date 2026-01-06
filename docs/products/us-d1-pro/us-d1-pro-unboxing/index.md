@@ -1,5 +1,5 @@
 ---
-title: US-D1 Unboxing
+title: US-D1 Pro Unboxing
 excerpt: ''
 deprecated: false
 hidden: false
