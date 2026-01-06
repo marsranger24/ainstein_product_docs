@@ -1,5 +1,5 @@
 ---
-title: US-D1 Integrator Docs
+title: US-D1 Product Sheet
 excerpt: ''
 deprecated: false
 hidden: false
