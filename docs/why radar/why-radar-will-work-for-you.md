@@ -1,7 +1,7 @@
 ---
 title: Why Radar Will Work for You
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
