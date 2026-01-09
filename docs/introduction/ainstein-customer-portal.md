@@ -10,7 +10,7 @@ Welcome to the Ainstein Customer Portal. This site is the single source of truth
 - Product documentation and technical user manuals
 - Firmware and software tools
 - CAD (2D/3D) resources
-- Release logs and known issues
+- Release logs and FAQs
 
 ## How to use this portal
 
