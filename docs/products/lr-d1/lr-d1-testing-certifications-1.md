@@ -32,15 +32,19 @@ Copyright 2025 © Ainstein AI, Inc. All rights reserved. No part of this work ma
     <tr>
       <td>Low Extreme Ambient Temperature Duration Under Testing</td>
       <td>2 Hours</td>
+ 		</tr>
+    <tr>
+      <td>Low Extreme Ambient Temperature Boosting Pass Rate</td>
+      <td>>99%</td>
     </tr>
     <tr>
-      <td>Low Extreme ambient
-temperature for on-board
-temperature Rise
-(Junction temperature rise on the
-processor)
+      <td>Low Extreme Ambient
+Temperature for On-Board
+Temperature Rise
+(Junction Temperature Rise on the
+Processor)
 </td>
-      <td>60%</td>
+      <td><33</td>
     </tr>
     <tr>
       <td>Wind Speed</td>
