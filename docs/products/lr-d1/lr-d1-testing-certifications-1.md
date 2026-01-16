@@ -38,29 +38,29 @@ Copyright 2025 © Ainstein AI, Inc. All rights reserved. No part of this work ma
       <td>>99%</td>
     </tr>
     <tr>
-      <td>Low Extreme Ambient
-Temperature for On-Board
-Temperature Rise
-(Junction Temperature Rise on the
-Processor)
+      <td>Low Extreme Ambient Temperature for On-Board Temperature Rise
 </td>
-      <td><33</td>
+      <td><33°C</td>
     </tr>
     <tr>
-      <td>Wind Speed</td>
-      <td>15 km/h</td>
+      <td>High Extreme Ambient
+Temperature Under Testing</td>
+      <td>85°C</td>
     </tr>
     <tr>
-      <td>Precipitation</td>
-      <td>5 mm</td>
+      <td>High Extreme Ambient
+Temperature Duration Under
+Testing</td>
+      <td>1.5 Hours</td>
     </tr>
     <tr>
-      <td>UV Index</td>
-      <td>7</td>
+      <td>High Extreme Ambient
+Temperature Booting Pass Rate </td>
+      <td>N.A.</td>
     </tr>
     <tr>
-      <td>Visibility</td>
-      <td>10 km</td>
+      <td>High Extreme Ambient Temperature for On-Board Temperature Rise</td>
+      <td><26°C</td>
     </tr>
   </tbody>
 </Table>
