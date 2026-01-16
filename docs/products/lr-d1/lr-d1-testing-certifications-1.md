@@ -13,6 +13,7 @@ Copyright 2025 © Ainstein AI, Inc. All rights reserved. No part of this work ma
 
 <br />
 
+<div style="text-align: center;">
 <Table align={["left","left"]}>
   <thead>
     <tr>
@@ -69,6 +70,7 @@ Temperature Booting Pass Rate</td>
 
 ## LR-D1 Shock and Vibration Information
 
+<div style="text-align: center;">
 <Table align={["left","left"]}>
   <thead>
     <tr>
