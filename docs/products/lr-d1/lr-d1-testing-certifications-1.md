@@ -78,48 +78,48 @@ Temperature Booting Pass Rate</td>
   </thead>
   <tbody>
     <tr>
-      <td>Shock Acceleration</td>
-      <td>20 Gs</td>
+      <td style="text-align: left;">Shock Acceleration</td>
+      <td style="text-align: center;">20 Gs</td>
     </tr>
     <tr>
-      <td>Shock Pulse Duration</td>
-      <td>11 ms</td>
+      <td style="text-align: left;">Shock Pulse Duration</td>
+      <td style="text-align: center;">11 ms</td>
     </tr>
     <tr>
-      <td>Shock Waveform</td>
-      <td>Half Sine-Wave</td>
+      <td style="text-align: left;">Shock Waveform</td>
+      <td style="text-align: center;">Half Sine-Wave</td>
  		</tr>
     <tr>
-      <td>Shock Axis</td>
-      <td>X, Y, Z</td>
+      <td style="text-align: left;">Shock Axis</td>
+      <td style="text-align: center;">X, Y, Z</td>
     </tr>
     <tr>
-      <td>Shock Standard Reference</td>
-      <td>IEC68-2-27:1987</td>
+      <td style="text-align: left;">Shock Standard Reference</td>
+      <td style="text-align: center;">IEC68-2-27:1987</td>
     </tr>
     <tr>
-      <td>Vibration Frequency Sweep</td>
-      <td>10Hz~2000Hz～10Hz</td>
+      <td style="text-align: left;">Vibration Frequency Sweep</td>
+      <td style="text-align: center;">10Hz~2000Hz～10Hz</td>
     </tr>
     <tr>
-      <td>Vibration Acceleration</td>
-      <td>5 Gs</td>
+      <td style="text-align: left;">Vibration Acceleration</td>
+      <td style="text-align: center;">5 Gs</td>
     </tr>
     <tr>
-      <td>Vibration Sweep Rate</td>
-      <td>≤1oct/min</td>
+      <td style="text-align: left;">Vibration Sweep Rate</td>
+      <td style="text-align: center;">≤1oct/min</td>
     </tr>
     <tr>
-      <td>Vibration Dwell Time Under Testing</td>
-      <td>0.5 Hr</td>
+      <td style="text-align: left;">Vibration Dwell Time Under Testing</td>
+      <td style="text-align: center;">0.5 Hr</td>
 		</tr>
     <tr>
-      <td>Vibration Axis</td>
-      <td>X, Y, Z</td>
+      <td style="text-align: left;">Vibration Axis</td>
+      <td style="text-align: center;">X, Y, Z</td>
 		</tr>
     <tr>
-      <td>Vibration Standard Reference</td>
-      <td>IEC 60068-2-6.1995</td>
+      <td style="text-align: left;">Vibration Standard Reference</td>
+      <td style="text-align: center;">IEC 60068-2-6.1995</td>
     </tr>
   </tbody>
 </Table>
