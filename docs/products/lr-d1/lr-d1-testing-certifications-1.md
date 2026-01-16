@@ -17,24 +17,29 @@ Copyright 2025 © Ainstein AI, Inc. All rights reserved. No part of this work ma
   <thead>
     <tr>
       <th>Specs</th>
-      <th>Value</th>
+      <th>Value or Range</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Average Temperature</td>
-      <td>22°C</td>
+      <td>LR-D1 Operating Temperature</td>
+      <td>-40°C ~ 60°C</td>
     </tr>
     <tr>
-      <td>Maximum Temperature</td>
-      <td>35°C</td>
+      <td>Low Extreme Ambient Temperature Under Testing</td>
+      <td>-40°C</td>
     </tr>
     <tr>
-      <td>Minimum Temperature</td>
-      <td>10°C</td>
+      <td>Low Extreme Ambient Temperature Duration Under Testing</td>
+      <td>2 Hours</td>
     </tr>
     <tr>
-      <td>Humidity</td>
+      <td>Low Extreme ambient
+temperature for on-board
+temperature Rise
+(Junction temperature rise on the
+processor)
+</td>
       <td>60%</td>
     </tr>
     <tr>
