@@ -22,45 +22,45 @@ Copyright 2025 © Ainstein AI, Inc. All rights reserved. No part of this work ma
   </thead>
   <tbody>
     <tr>
-      <td>LR-D1 Operating Temperature</td>
-      <td>-40°C ~ 60°C</td>
+      <td style="text-align: left;">LR-D1 Operating Temperature</td>
+      <td style="text-align: center;">-40°C ~ 60°C</td>
     </tr>
     <tr>
-      <td>Low Extreme Ambient Temperature Under Testing</td>
-      <td>-40°C</td>
+      <td style="text-align: left;">Low Extreme Ambient Temperature Under Testing</td>
+      <td style="text-align: center;">-40°C</td>
     </tr>
     <tr>
-      <td>Low Extreme Ambient Temperature Duration Under Testing</td>
-      <td>2 Hours</td>
+      <td style="text-align: left;">Low Extreme Ambient Temperature Duration Under Testing</td>
+      <td style="text-align: center;">2 Hours</td>
  		</tr>
     <tr>
-      <td>Low Extreme Ambient Temperature Boosting Pass Rate</td>
-      <td>>99%</td>
+      <td style="text-align: left;">Low Extreme Ambient Temperature Boosting Pass Rate</td>
+      <td style="text-align: center;">>99%</td>
     </tr>
     <tr>
-      <td>Low Extreme Ambient Temperature for On-Board Temperature Rise
+      <td style="text-align: left;">Low Extreme Ambient Temperature for On-Board Temperature Rise
 </td>
-      <td><33°C</td>
+      <td style="text-align: center;"><33°C</td>
     </tr>
     <tr>
-      <td>High Extreme Ambient
+      <td style="text-align: left;">High Extreme Ambient
 Temperature Under Testing</td>
-      <td>85°C</td>
+      <td style="text-align: center;">85°C</td>
     </tr>
     <tr>
-      <td>High Extreme Ambient
+      <td style="text-align: left;">High Extreme Ambient
 Temperature Duration Under
 Testing</td>
-      <td>1.5 Hours</td>
+      <td style="text-align: center;">1.5 Hours</td>
     </tr>
     <tr>
-      <td>High Extreme Ambient
+      <td style="text-align: left;">High Extreme Ambient
 Temperature Booting Pass Rate</td>
-      <td>N.A.</td>
+      <td style="text-align: center;">N.A.</td>
     </tr>
     <tr>
-      <td>High Extreme Ambient Temperature for On-Board Temperature Rise</td>
-      <td><26°C</td>
+      <td style="text-align: left;">High Extreme Ambient Temperature for On-Board Temperature Rise</td>
+      <td style="text-align: center;"><26°C</td>
     </tr>
   </tbody>
 </Table>
