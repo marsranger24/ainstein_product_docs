@@ -73,3 +73,60 @@ Testing</td>
 </Table>
 
 ## LR-D1 Pro Shock and Vibration Information
+
+<br />
+
+<Table align={["left","center"]}>
+  <thead>
+    <tr>
+      <th>Specs</th>
+      <th>Value or Range</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left;">Shock Acceleration</td>
+      <td style="text-align: center;">100 Gs</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Shock Pulse Duration</td>
+      <td style="text-align: center;">10 ms</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Shock Waveform</td>
+      <td style="text-align: center;">Half Sine-Wave</td>
+ 		</tr>
+    <tr>
+      <td style="text-align: left;">Shock Axis</td>
+      <td style="text-align: center;">X, Y, Z</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Shock Standard Reference</td>
+      <td style="text-align: center;">IEC68-2-27:1987</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Vibration Frequency Sweep</td>
+      <td style="text-align: center;">17Hz~2000Hz～17Hz</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Vibration Acceleration</td>
+      <td style="text-align: center;">15 Gs</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Vibration Sweep Rate</td>
+      <td style="text-align: center;">≤1oct/min</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Vibration Dwell Time Under Testing</td>
+      <td style="text-align: center;">1.5 Hr</td>
+		</tr>
+    <tr>
+      <td style="text-align: left;">Vibration Axis</td>
+      <td style="text-align: center;">X, Y, Z</td>
+		</tr>
+    <tr>
+      <td style="text-align: left;">Vibration Standard Reference</td>
+      <td style="text-align: center;">IEC 60068-2-6.1995</td>
+    </tr>
+  </tbody>
+</Table>
