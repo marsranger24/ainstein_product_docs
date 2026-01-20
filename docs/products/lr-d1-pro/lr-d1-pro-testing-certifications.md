@@ -71,3 +71,5 @@ Testing</td>
     </tr>
   </tbody>
 </Table>
+
+## LR-D1 Pro Shock and Vibration Information
