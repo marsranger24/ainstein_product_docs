@@ -24,4 +24,4 @@ metadata:
 | [📄 US-D1 Pro mounting bracket](#)                                                                                          | CAD       | Step      | YYYY/MM/DD |            0.0 |
 | [📄 US-D1 Pro 2D drawing](#)                                                                                                | CAD       | PDF/DXF   | YYYY/MM/DD |            0.0 |
 
-[LR-D1 Pro CAD](https://github.com/marsranger24/ainstein_product_docs/raw/refs/heads/v1.0/downloads/LR-D1-Pro.stp)
+[LR-D1 Pro CAD](https://github.com/marsranger24/ainstein_product_docs/raw/refs/heads/v1.0/downloads/LR-D1-Pro%20(3).zip)
