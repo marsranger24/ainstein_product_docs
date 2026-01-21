@@ -8,7 +8,7 @@ metadata:
 | Name                                                                                                                         | File Type | Extension |   Released | File Size (MB) |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------- | --------- | ---------: | -------------: |
 | **📁 LR-D1**                                                                                                                 |           |           |            |                |
-| [📄 LR-D1 housing](#https://github.com/marsranger24/ainstein_product_docs/raw/refs/heads/v1.0/downloads/LR-D1.zip)           | CAD       | Step      | YYYY/MM/DD |          0.911 |
+| [📄 LR-D1 housing](https://github.com/marsranger24/ainstein_product_docs/raw/refs/heads/v1.0/downloads/LR-D1.zip)            | CAD       | Step      | YYYY/MM/DD |          0.911 |
 | [📄 LR-D1 mounting bracket](#)                                                                                               | CAD       | Step      | YYYY/MM/DD |            0.0 |
 | [📄 LR-D1 2D drawing](#)                                                                                                     | CAD       | PDF/DXF   | YYYY/MM/DD |            0.0 |
 | **📁 LR-D1 Pro**                                                                                                             |           |           |            |                |
