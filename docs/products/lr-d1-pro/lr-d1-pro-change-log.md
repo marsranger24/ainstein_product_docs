@@ -20,5 +20,13 @@ Updates and upgrades to the LR-D1 Pro through the new Firmware include:
 Please reach out to the Ainstein team via [support@ainstein.ai](mailto:support@ainstein.ai) with any inquiries about this or  
 previous FW versions.
 
-Attached to the second page of this Notice is the Firmware Change Log of the LR-D1 Pro (also  
+The following table is the Firmware Change Log of the LR-D1 Pro (also  
 available in the Technical User Manual).
+
+<br />
+
+| PL Firmware Version        | PS Firmware Version        | 60 GHz APP Version         | ```      Release Date ``` |
+| -------------------------- | -------------------------- | -------------------------- | :------------------------ |
+| ```        V97.249.0.0 ``` | ```        V97.249.0.0 ``` | ```        V97.252.1.0 ``` | ```        2023/04/01 ``` |
+| ```        V98.255.0.3 ``` | ```        V98.252.2.2 ``` | ```        V97.251.1.0 ``` | ```        2023/12/11 ``` |
+| ```        V98.255.0.5 ``` | ```        V98.251.2.3 ``` | ```        V97.251.1.0 ``` | ```        2025/10/31 ``` |
