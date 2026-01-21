@@ -1,7 +1,7 @@
 ---
 title: LR-D1 Change Log
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
