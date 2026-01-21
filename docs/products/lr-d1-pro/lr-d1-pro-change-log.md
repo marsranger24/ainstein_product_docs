@@ -1,5 +1,5 @@
 ---
-title: LR-D1 Pro Change Log
+title: LR-D1 Pro FW Change Log
 deprecated: false
 hidden: false
 metadata:
