@@ -5,7 +5,7 @@ hidden: true
 metadata:
   robots: index
 ---
-## LR-D1 Mechanical Drawing:
+## 6. LR-D1 Mechanical Drawing:
 
 [block:image]
 {
