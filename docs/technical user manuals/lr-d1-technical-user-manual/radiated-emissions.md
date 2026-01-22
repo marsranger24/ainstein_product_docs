@@ -5,7 +5,7 @@ hidden: true
 metadata:
   robots: index
 ---
-## LR-D1 Radiated Emissions
+## 7. LR-D1 Radiated Emissions
 
 [block:image]
 {
