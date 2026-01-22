@@ -5,12 +5,14 @@ hidden: true
 metadata:
   robots: index
 ---
+## LR-D1 Radiated Emissions
+
 [block:image]
 {
   "images": [
     {
       "image": [
-        "https://files.readme.io/a95de54d97f6639ba94adfbccb8ed62822f768d34985169d4c80939a187aae59-Screenshot_2026-01-22_at_12.43.09_AM.png",
+        "https://files.readme.io/107d056ae514819097e7c85521433ce814edcd926aed869015174630b778ac9f-Screenshot_2026-01-22_at_12.43.09_AM.png",
         "",
         ""
       ],
