@@ -59,3 +59,20 @@ metadata:
   ]
 }
 [/block]
+
+
+<br />
+
+**Note:**
+
+1. Radar data may vary over different terrains when the radar is out of its detection range.  
+   Usually, we recommend mounting the LR-D1 at a minimum height of at least 1.4m.
+2. Range detection might be limited by terrains, pitch, and roll of aircraft, etc. The range  
+   precision here only indicates the lab experiment/calibration result in the ideal case.  
+   LR-D1 altitude data report step size could be smaller than this precision because of the  
+   post-processing.
+3. Based on mm-wave radar specs, a large angle of pitch and roll would bring error for  
+   detection. Under the same measurement circumstance, larger angles by aircraft bring  
+   more error.
+4. IP rate here only focuses on the radar itself. This rating does not cover any cabling  
+   interface.
