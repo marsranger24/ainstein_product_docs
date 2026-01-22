@@ -60,3 +60,58 @@ Obstructions to the LR-D1 Pro’s field of view will cause a decrease in the per
 of the radar. It is highly recommended that the LR-D1 Pro be mounted on the underside  
 of the aircraft far away from the landing gear, other aircraft structures, or other  
 equipment.
+
+[block:image]
+{
+  "images": [
+    {
+      "image": [
+        "https://files.readme.io/3c612ab24e9b0e290fed4345137f0b14c8692423020d2267de6c819533d92e80-Screenshot_2026-01-21_at_11.56.14_PM.png",
+        "",
+        ""
+      ],
+      "align": "left"
+    }
+  ]
+}
+[/block]
+
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+**Figure 2: Line of Sight Clearance of the LR-D1 Pro**
+
+## 2.4. Integration Requirements
+
+The LR-D1 Pro outputs altitude measurements and signal-to-noise ratio (SNR)  
+measurements when operational. When integrating the LR-D1 Pro radar altimeter, it is  
+recommended to use SNR measurements in conjunction with malfunction alerts (see  
+Appendix 1) to properly filter out erroneous altitude values.
+
+**Caution!** _Altitude measurements associated with an **SNR value of 13 dB or lower** are  
+considered **erroneous**._
+
+> 📘 **Caution!** Altitude measurements associated with an **SNR value of 13 dB or lower** are considered **erroneous**.
+
+A fusion algorithm should be used to estimate vehicle position, velocity, and  
+angular orientation based on rate gyroscopes, accelerometer, compass, GPS, airspeed,  
+and barometric pressure measurements in addition to the recorded LR-D1 Pro  
+measurements. Sensor redundancy is strongly advised for use of the LR-D1 Pro in  
+mission-critical application  
+Proprietary information
