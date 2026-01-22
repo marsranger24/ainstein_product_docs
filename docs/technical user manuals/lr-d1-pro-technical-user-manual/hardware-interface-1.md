@@ -113,4 +113,6 @@ definition as indicated in the table below.
 
 <br />
 
+<br />
+
 **Note:** Power input pins 1 and 2 share continuity and therefore a diode must be added to isolate PWR-IN-A and PWR-IN-B from each other, if isolating PWR-IN-A and PWR-IN-B is required.
