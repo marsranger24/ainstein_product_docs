@@ -79,7 +79,7 @@ Temperature Booting Pass Rate</td>
   <tbody>
     <tr>
       <td style="text-align: left;">Shock Acceleration</td>
-      <td style="text-align: left;">20 Gs</td>
+      <td style="text-align: center;">20 Gs</td>
     </tr>
     <tr>
       <td style="text-align: left;">Shock Pulse Duration</td>
