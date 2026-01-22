@@ -1,7 +1,7 @@
 ---
 title: US-D1 FW Change Log
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
