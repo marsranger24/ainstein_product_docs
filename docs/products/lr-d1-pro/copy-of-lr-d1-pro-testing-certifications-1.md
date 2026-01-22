@@ -1,7 +1,7 @@
 ---
-title: Copy of LR-D1 Pro Testing & Certifications
+title: LR-D1 Pro Testing & Certifications
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
