@@ -1,5 +1,5 @@
 ---
-title: Minimum and Maximum Operating Altitude
+title: Installation Guidelines
 deprecated: false
 hidden: true
 metadata:
