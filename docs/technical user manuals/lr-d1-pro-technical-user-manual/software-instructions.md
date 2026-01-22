@@ -178,4 +178,116 @@ To update the firmware version of your LR-D1 Pro device to the latest release, f
 [/block]
 
 
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
 **Figure 9: LR-D1 Pro Software Tool - Firmware Selection**
+
+5. For updating the 24 GHz component, select the “fpga.bin” file and click, “Open”.  
+   For the 60 GHz, select the “vave-firmware-v97.XXX.1.0.bin” file and click,  
+   “Open”. The “Firmware” window will populate with the file’s details.
+6. Click “Load” to begin the firmware installation. This process may take up to 8  
+   minutes.
+7. Once completed, the LOG window will display, “Firmware update successful”.  
+   Power cycle the radar and reconnect to verify that the radar is displaying the  
+   latest firmware version.
+
+## 10.3 Changing Interface Type
+
+To change the interface type of your LR-D1 Pro device from RS-232 to RS-422, CAN, or  
+other options, follow the instructions below.
+
+8. Connect the LR-D1 Pro to the LR-D1 Pro Software Tool as described in Section 9.1.
+9. Navigate to the “Product” tab of the main window of the tool.
+10. Under the “Device” section, click the “Device Interface” dropdown. You will see  
+    a list of options.
+
+**Figure 10: LR-D1 Pro Software Tool - Interface Selection**
+
+[block:image]
+{
+  "images": [
+    {
+      "image": [
+        "https://files.readme.io/74bf5b1755e9729d6151e99dce048ec458ff1a2e0333c64363d03486af85bc03-Screenshot_2026-01-22_at_3.17.01_AM.png",
+        "",
+        ""
+      ],
+      "align": "left",
+      "border": true
+    }
+  ]
+}
+[/block]
+
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+11. Select your desired interface. For RS-232, select “232”. For RS-422, select  
+    “RS-422”. For RS-485, select “485”. For CAN protocol, select “CAN”. For UART  
+    TTL, select “TTL”.
+12. You will be prompted by a pop-up window to modify the port to your selected  
+    protocol. If correct, select “Yes”. This process will take several seconds.
+13. Once completed, the LOG window will display that the communication interface  
+    setup is complete.
+
+**Figure 11: LR-D1 Pro Software Tool - Interface Setup Completion**
+
+[block:image]
+{
+  "images": [
+    {
+      "image": [
+        "https://files.readme.io/22a6819baabe36c09e32cd36ac6bedee07b50df9e415b947aa2cff928f421add-Screenshot_2026-01-22_at_3.18.33_AM.png",
+        "",
+        ""
+      ],
+      "align": "left",
+      "border": true
+    }
+  ]
+}
+[/block]
