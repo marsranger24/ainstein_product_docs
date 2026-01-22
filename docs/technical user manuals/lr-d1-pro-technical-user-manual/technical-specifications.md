@@ -5,7 +5,7 @@ hidden: true
 metadata:
   robots: index
 ---
-## 4. Technical Specifications:
+## 4. LR-D1 Pro Technical Specifications:
 
 **Table 1: Specifications of the LR-D1 Pro**
 
