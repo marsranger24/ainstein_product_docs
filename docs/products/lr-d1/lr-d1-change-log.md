@@ -18,8 +18,7 @@ Updates and upgrades to the LR-D1 through the new Firmware include:
 Please reach out to the Ainstein team via [support@ainstein.ai](mailto:support@ainstein.ai) with any inquiries about this or  
 previous FW versions.
 
-The following table is the Firmware Change Log of the LR-D1 (also  
-available in the Technical User Manual).
+The following table is the Firmware Change Log of the LR-D1 (also available in the Technical User Manual).
 
 <br />
 
