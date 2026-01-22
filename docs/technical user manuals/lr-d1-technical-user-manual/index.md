@@ -135,7 +135,9 @@ Keep the face of the radar clean, and do not cover it with any additional materi
 
 Additionally, keep any unexpected objects out of the radar’s FoV (Field of View). Obstructions to the LR-D1’s field of view will cause a decrease in the performance of the radar. It is highly recommended that the LR-D1 be mounted on the underside of the aircraft far away from the landing gear, other aircraft structures, or other equipment. 
 
-![][image2]![][image3]Figure 2 
+![][image2]![][image3]
+
+Figure 2 
 
 **2.4. Integration Requirements** 
 
