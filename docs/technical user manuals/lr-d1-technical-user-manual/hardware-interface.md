@@ -67,3 +67,26 @@ metadata:
   ]
 }
 [/block]
+
+
+**Note:**  
+LR-D1's default hardware interface is RS-232. If the RS-422 interface is required, please  
+contact Ainstein for assistance.
+
+**Figure 4: LR-D1 Pinout Diagram**
+
+[block:image]
+{
+  "images": [
+    {
+      "image": [
+        "https://files.readme.io/9920c31e604f7ed927be5f20c1b51a338a6ddf2e66a118cf32de44003ca0d7a6-Screenshot_2026-01-22_at_12.50.33_AM.png",
+        "",
+        ""
+      ],
+      "align": "left",
+      "border": true
+    }
+  ]
+}
+[/block]
