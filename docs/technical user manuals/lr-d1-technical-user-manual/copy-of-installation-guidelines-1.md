@@ -18,9 +18,10 @@ inclination in any direction while the device is fastened to the aircraft.
       "image": [
         "https://files.readme.io/5a8c71509d2ff632604968b76ee3696198dc47ed982126593cc1fb0344a0a0c2-Screenshot_2026-01-21_at_11.51.28_PM.png",
         "",
-        ""
+        "Figure 1"
       ],
       "align": "center",
+      "sizing": "450px",
       "border": true,
       "caption": "Figure 1"
     }
