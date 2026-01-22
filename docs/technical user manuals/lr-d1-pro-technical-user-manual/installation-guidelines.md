@@ -11,6 +11,8 @@ When mounting the device, the front face of the LR-D1 Pro must be perpendicular 
 the ground below the aircraft. There should not be any angle of inclination in any  
 direction while the device is fastened to the aircraft.
 
+<br />
+
 [block:image]
 {
   "images": [
@@ -29,8 +31,6 @@ direction while the device is fastened to the aircraft.
 }
 [/block]
 
-
-<br />
 
 ## 2.2 Mounting to an Aircraft
 
@@ -58,32 +58,13 @@ equipment.
         "",
         ""
       ],
-      "align": "left"
+      "align": "center",
+      "caption": "Figure 2: Line of Sight Clearance of the LR-D1 Pro"
     }
   ]
 }
 [/block]
 
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-**Figure 2: Line of Sight Clearance of the LR-D1 Pro**
 
 ## 2.4. Integration Requirements
 
