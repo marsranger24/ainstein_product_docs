@@ -1,5 +1,5 @@
 ---
-title: Installation Guideline
+title: Installation Guidelines
 deprecated: false
 hidden: true
 metadata:
