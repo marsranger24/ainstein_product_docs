@@ -89,7 +89,7 @@ code table in the Appendix 1 for details.
 
 <br />
 
-***
+<br />
 
 **Note:**
 
