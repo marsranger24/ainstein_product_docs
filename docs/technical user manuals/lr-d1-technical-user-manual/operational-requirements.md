@@ -6,7 +6,7 @@ excerpt: >-
   decrease in performance, accuracy, or reliability of the LR-D1 altimeter and
   is not advised.
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
