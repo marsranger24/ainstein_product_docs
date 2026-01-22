@@ -5,7 +5,7 @@ hidden: true
 metadata:
   robots: index
 ---
-## 6. Mechanical Drawing
+## 6. LR-D1 Pro Mechanical Drawing
 
 **Figure 4: Dimensions of LR-D1 Pro (Units: mm)**
 
