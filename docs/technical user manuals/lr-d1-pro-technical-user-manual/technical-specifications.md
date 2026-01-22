@@ -9,8 +9,6 @@ metadata:
 
 **Table 1: Specifications of the LR-D1 Pro**
 
-<br />
-
 [block:parameters]
 {
   "data": {
@@ -78,9 +76,7 @@ reflection, such as concrete, the radar can operate up to 600m. The LR-D1 Pro wi
 SNR = 0 and Altitude = 0m to indicate if there is no target detected; Therefore, when the  
 SNR = 0, the detection can be considered invalid for that data frame.
 
-2. Range detection might be limited by the terrain composition below, the pitch and roll of  
-   aircraft, and operational requirements. The range precision indicates the lab  
-   tested/calibration results in the standard case. 
+2. Range detection might be limited by the terrain composition below, the pitch and roll of aircraft, and operational requirements. The range precision indicates the lab tested/calibration results in the standard case. 
 
 LR-D1 Pro altitude data output step size is smaller than the radar’s precision because of  
 the post-processing of the raw detection data.
