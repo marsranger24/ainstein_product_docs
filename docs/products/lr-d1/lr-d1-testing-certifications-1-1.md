@@ -11,8 +11,6 @@ Copyright 2026 © Ainstein AI, Inc. All rights reserved. No part of this work ma
 
 ## LR-D1 Temperature Information
 
-<br />
-
 <Table align={["left","center"]}>
   <thead>
     <tr>
