@@ -5,7 +5,7 @@ hidden: true
 metadata:
   robots: index
 ---
-## 1.1. US-D1
+## 1.1. US-D1 Product Description
 
 The US-D1 Radar Altimeter uses the principles of radio detection and ranging to  
 determine the altitude of the aircraft. A microwave signal is transmitted out of the  
