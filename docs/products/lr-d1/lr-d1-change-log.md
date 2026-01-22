@@ -23,7 +23,7 @@ available in the Technical User Manual).
 
 <br />
 
-| Firmware Version  | Update Features                                                                                                  | Release Date |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------- | :----------- |
-| ` ` v18.0.1.3\`\` | - Introducing Out-of-Range logic and a new data format     - Fixes the voltage monitor reading consistency issue | `05/11/2023` |
-| ` ` v19.0.0.1\`\` | - Add out-of-range indication in Data 12    - Updated compatibility with ArduPilot                               | `11/03/2025` |
+| Firmware Version  | Update Features                                                                                                                                 | Release Date |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | :----------- |
+| ` ` v18.0.1.3\`\` | - Introducing Out-of-Range logic and a new data format                                    - Fixes the voltage monitor reading consistency issue | `05/11/2023` |
+| ` ` v19.0.0.1\`\` | - Add out-of-range indication in Data 12                                                              - Updated compatibility with ArduPilot    | `11/03/2025` |
