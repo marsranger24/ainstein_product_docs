@@ -63,7 +63,7 @@ hexadecimal alarm code in the table below to determine the alarm definition
     "9-3": "Stop use and contact Ainstein for repair.",
     "10-0": "0x0400",
     "10-1": "Altitude Reading  \nOverflow Warning",
-    "10-2": "Altitude reading  \nis greater than the max. integer  \nof 16-bit (655.35 m)",
+    "10-2": "Altitude reading  \nis greater than the max. integer  \nof 16-bit (655.35 meters)",
     "10-3": "Occurs when LR-D1  \ndetects the altitude is  \ngreater than 655.35  \nmeters",
     "11-0": "0x0800",
     "11-1": "Excessive Attitude  \nAngle Warning",
