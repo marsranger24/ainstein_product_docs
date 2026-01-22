@@ -20,7 +20,7 @@ direction while the device is fastened to the aircraft.
         "",
         ""
       ],
-      "align": "left",
+      "align": "center",
       "border": true
     }
   ]
