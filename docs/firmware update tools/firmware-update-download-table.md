@@ -1,10 +1,12 @@
 ---
 title: Firmware Update Tool Download Table
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
+The following section contains downloadable files pertaining to update tools for Ainstein's radar altimeters.
+
 | Name                                                                                                                                                               |  Released | File Size (MB) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------: | -------------: |
 | **📁 LR-D1**                                                                                                                                                       |           |                |
