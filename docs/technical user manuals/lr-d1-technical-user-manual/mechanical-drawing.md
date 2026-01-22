@@ -5,7 +5,7 @@ hidden: true
 metadata:
   robots: index
 ---
-**Figure 3: Dimensions of LR-D1 (Units: mm)**
+## LR-D1 Mechanical Drawing:
 
 [block:image]
 {
@@ -22,3 +22,26 @@ metadata:
   ]
 }
 [/block]
+
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+**_Figure 3: Dimensions of LR-D1 (Units: mm)_**
