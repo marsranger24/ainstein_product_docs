@@ -21,7 +21,7 @@ following characteristics:
 
 - Identifier (ID) length: 11 bits (Standard CAN ID frame) , following CAN V2.0A  
   standard protocol
--  CAN ID: 0x055
+- CAN ID: 0x055
 - Baud rate: 1 Mbps
 - Data segment length (DLC) of each CAN packet: 8 bits
 - LR-D1 Pro 3.0 data packet length: 32 bytes, consisting of 8 bits from 4 CAN  
@@ -139,6 +139,50 @@ following characteristics:
     "left",
     "left",
     "left"
+  ]
+}
+[/block]
+
+
+<br />
+
+**Note:**
+
+1. Please see Appendix 1 for details about malfunction information.
+2. Altitude Data Parse for 24 GHz: Altitude = (high1_h \* 256) + high1_l; unit: 0.01 m (cm);  
+   Type: Unsigned
+3. Altitude Data Parse for 60 GHz: Altitude = ((high2_h \* 256) + high2_l) , unit: 0.01 m (cm);  
+   Type: Unsigned
+4. Velocity Data Parse for 24 GHz: Velocity = (speed1 \_h \* 256) + speed1 \_l; unit: 0.01m/s;  
+   Type: Signed
+5. Velocity Data Parse for 60 GHz: Velocity = (speed1 \_h \* 256) + speed1 \_l; unit: 0.01m/s;  
+   Type: Signed
+6. Altitude Data Parse for Integrated: Altitude = (high3_h \* 256) +vhigh3_l, unit: 0.01 m (cm);  
+   Type: Unsigned
+7. Velocity Data Parse for Integrated: Velocity = (speed3_h \* 256) + speed3_l, unit: 0.01 m  
+   (cm)  
+   A 16-bit integer is used to indicate the LR-D1’s altitude reading in centimeters, therefore  
+   the maximum valid altitude would be 65535 cm (655.35 m). If the actual altitude is  
+   greater than 655.35 m, an altitude reading overflow error would occur.
+8. The figure below shows the CAN port output data of the device analyzed by the CAN  
+   Bus Tools tool. A single frame output result of the LR-D1 Pro is highlighted in the box.  
+   The single LR-D1 Pro frame is divided into 4 CAN data packets, with each CAN packet  
+   containing 8 bytes of data, giving a total of 32 bytes. The byte order is consistent with the  
+   product manual.
+
+**Figure 3: An LR-D1 Pro Data Packet**
+
+[block:image]
+{
+  "images": [
+    {
+      "image": [
+        "https://files.readme.io/5274296c241ecad5e6e65c437d5d5c8164b2d6817bf9653b7a253a4e6a8e1c5e-Screenshot_2026-01-22_at_2.45.31_AM.png",
+        "",
+        ""
+      ],
+      "align": "left"
+    }
   ]
 }
 [/block]
