@@ -1,5 +1,5 @@
 ---
-title: Firmware Download Table
+title: Firmware Files Download Table
 deprecated: false
 hidden: false
 metadata:
