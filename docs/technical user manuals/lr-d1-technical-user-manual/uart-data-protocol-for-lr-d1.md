@@ -121,3 +121,19 @@ consider the altitude reading plus 65535 cm.
 
 ii. ‘Voltage alert’ - Users might discard the radar’s measurement reading or  
 keep using it temporarily and contact Ainstein for more details.
+
+[block:image]
+{
+  "images": [
+    {
+      "image": [
+        "https://files.readme.io/ee8d45a3fcf19f5c89f73b33c9c8316d1d33b1dbcb5b77b5c4f7bfc21361fc18-Screenshot_2026-01-22_at_12.39.47_AM.png",
+        "",
+        ""
+      ],
+      "align": "left",
+      "border": true
+    }
+  ]
+}
+[/block]
