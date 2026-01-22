@@ -11,9 +11,7 @@ When mounting the device, the radio wave emitted from the LR-D1 must be
 perpendicular to the ground below the aircraft. There should not be any angle of  
 inclination in any direction while the device is fastened to the aircraft.
 
-<br />
-
-`**Figure 1**`
+**Figure 1**
 
 [block:image]
 {
@@ -24,7 +22,8 @@ inclination in any direction while the device is fastened to the aircraft.
         "",
         ""
       ],
-      "align": "left"
+      "align": "left",
+      "border": true
     }
   ]
 }
@@ -44,8 +43,6 @@ inclination in any direction while the device is fastened to the aircraft.
 <br />
 
 <br />
-
-_Proprietary information_
 
 ## 2.2 Mounting to an Aircraft
 
@@ -74,7 +71,8 @@ aircraft far away from the landing gear, other aircraft structures, or other equ
         "",
         ""
       ],
-      "align": "center"
+      "align": "left",
+      "border": true
     }
   ]
 }
@@ -85,19 +83,23 @@ aircraft far away from the landing gear, other aircraft structures, or other equ
 
 <br />
 
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
 ## 2.4. Integration Requirements
 
 The LR-D1 outputs altitude measurements and signal-to-noise ratio (SNR)  
-measurements when operational. When integrating the LR-D1 radar altimeter, it is  
-Proprietary information  
-Page 8  
-1421 Research Park Dr  
-Lawrence, KS 66049  
-necessary to use SNR measurements and Out of Range Behavior Indication in  
-conjunction with malfunction alerts (see appendix 1) to properly filter out erroneous  
-altitude values.  
-A filtering algorithm should be used to estimate vehicle position, velocity, and  
-angular orientation based on rate gyroscopes, accelerometer, compass, GPS, airspeed,  
-and barometric pressure measurements in addition to the recorded LR-D1  
-measurements. Sensor redundancy is heavily advised for the LR-D1.  
-Proprietary information
+measurements when operational. When integrating the LR-D1 radar altimeter, it is necessary to use SNR measurements and Out of Range Behavior Indication in conjunction with malfunction alerts (see appendix 1) to properly filter out erroneous altitude values. 
+
+A filtering algorithm should be used to estimate vehicle position, velocity, and angular orientation based on rate gyroscopes, accelerometer, compass, GPS, airspeed, and barometric pressure measurements in addition to the recorded LR-D1 measurements. Sensor redundancy is heavily advised for the LR-D1.
