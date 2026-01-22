@@ -40,4 +40,16 @@ stop altogether.
 
 The LR-D1 must be mounted upon the aircraft in such a manner as to be fully  
 horizontal, its radome directly facing the ground. Any angle of inclination may degrade  
-performance
+performance.
+
+## 3.6 Minimum and Maximum Operating Altitude
+
+Operating the LR-D1 at altitudes below 1.4 meters and above 500 meters will result in a  
+degradation of performance and potentially erroneous measurements. Also, any  
+reading at an altitude of greater than 655.35m would be considered an error or  
+overflowed reading (see appendix 1). When the actual altitude is too high or too low,  
+for example, above concrete, the radar can operate normally up to 800m or even  
+higher. It can also operate normally below than 1.4m, for example, when the  
+mounting height on some aircrafts are on the surface or at low heights. The LR-D1  
+will report data12 (Out of Range Indication, see Table 2 in the Section 5 for details) is  
+invalid to indicate there is no valid target detected
