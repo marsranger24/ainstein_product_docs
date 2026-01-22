@@ -11,8 +11,6 @@ When mounting the device, the radio wave emitted from the LR-D1 must be
 perpendicular to the ground below the aircraft. There should not be any angle of  
 inclination in any direction while the device is fastened to the aircraft.
 
-**Figure 1**
-
 [block:image]
 {
   "images": [
@@ -22,27 +20,14 @@ inclination in any direction while the device is fastened to the aircraft.
         "",
         ""
       ],
-      "align": "left",
-      "border": true
+      "align": "center",
+      "border": true,
+      "caption": "Figure 1"
     }
   ]
 }
 [/block]
 
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
 
 ## 2.2 Mounting to an Aircraft
 
