@@ -5,6 +5,8 @@ hidden: true
 metadata:
   robots: index
 ---
+## 8. Hardware Interface: 
+
 **Table 3: Pin Out Definition**
 
 [block:parameters]
