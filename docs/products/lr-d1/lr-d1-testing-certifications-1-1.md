@@ -23,7 +23,7 @@ Copyright 2026 © Ainstein AI, Inc. All rights reserved. No part of this work ma
   <tbody>
     <tr>
       <td style="text-align: left;">LR-D1 Operating Temperature</td>
-      <td style="text-align: center;">-40°C ~ 60°C</td>
+      <td style="text-align: left;">-40°C ~ 60°C</td>
     </tr>
     <tr>
       <td style="text-align: left;">Low Extreme Ambient Temperature Under Testing</td>
