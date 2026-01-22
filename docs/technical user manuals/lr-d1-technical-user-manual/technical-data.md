@@ -5,7 +5,9 @@ hidden: true
 metadata:
   robots: index
 ---
-**Table 1: Specificaiton**
+## 4. LR-D1 Technical Data
+
+**Table 1: Specification**
 
 [block:image]
 {
