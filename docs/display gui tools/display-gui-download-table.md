@@ -1,7 +1,7 @@
 ---
 title: Display GUI Download
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
