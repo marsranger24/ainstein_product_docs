@@ -1,5 +1,5 @@
 ---
-title: Mounting Angle
+title: Product Description
 deprecated: false
 hidden: true
 metadata:
