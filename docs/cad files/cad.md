@@ -9,6 +9,7 @@ metadata:
 | ------------------------------------------------------------------------------------------------------------------------------ | --------- | --------- | ---------: | -------------: |
 | **📁 LR-D1**                                                                                                                   |           |           |            |                |
 | [📄 LR-D1 .STP File](https://github.com/marsranger24/ainstein_product_docs/raw/refs/heads/v1.0/downloads/LR-D1.zip)            | CAD       | Step      | YYYY/MM/DD |          0.911 |
+|                                                                                                                                |           |           |            |                |
 | **📁 LR-D1 Pro**                                                                                                               |           |           |            |                |
 | [LR-D1 Pro .STP File](https://github.com/marsranger24/ainstein_product_docs/raw/refs/heads/v1.0/downloads/LR-D1-Pro%20(3).zip) | CAD       | Step      | YYYY/MM/DD |           2.28 |
 |                                                                                                                                |           |           |            |                |
