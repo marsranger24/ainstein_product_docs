@@ -104,14 +104,10 @@ measurements when operational. When integrating the LR-D1 Pro radar altimeter, i
 recommended to use SNR measurements in conjunction with malfunction alerts (see  
 Appendix 1) to properly filter out erroneous altitude values.
 
-**Caution!** _Altitude measurements associated with an **SNR value of 13 dB or lower** are  
-considered **erroneous**._
-
 > 📘 **Caution!** Altitude measurements associated with an **SNR value of 13 dB or lower** are considered **erroneous**.
 
 A fusion algorithm should be used to estimate vehicle position, velocity, and  
 angular orientation based on rate gyroscopes, accelerometer, compass, GPS, airspeed,  
 and barometric pressure measurements in addition to the recorded LR-D1 Pro  
 measurements. Sensor redundancy is strongly advised for use of the LR-D1 Pro in  
-mission-critical application  
-Proprietary information
+mission-critical application.
