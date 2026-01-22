@@ -7,7 +7,7 @@ metadata:
 ---
 **Caution!** If the data received for the malfunction alert code is not equal to 0x00 (Normal function) for data 5 and data 6 found in **Table 2: Data Packet Definition**, then please do not use the data packet and filter it out.
 
-There are four types of alerts open to the end users, the type of alert can be distinguished by its special code below.
+There are four types of alerts open to the end users. The type of alert can be distinguished by its special code below.
 
 There are two Bytes of data reserved for the Malfunction Alert. All four types of alerts are represented by a bit in this Byte. For example:
 
