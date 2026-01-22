@@ -27,43 +27,43 @@ Also, some of these Malfunction Alerts might be combined. For example:
 
 For obsolete Firmware (before v18.x.x.x), please contact Ainstein for a solution.
 
-For Firmware from v18.X.X.X:
+**For Firmware from v18.X.X.X:**
 
 [block:parameters]
 {
   "data": {
-    "h-0": "Malfunction  \nAlert Code",
-    "h-1": "Malfunction Alert Info",
+    "h-0": "Malfunction Alert Info",
+    "h-1": "Malfunction  \nAlert Code",
     "h-2": "Possible Reasons",
     "h-3": "Suggestion",
-    "0-0": "0x0001",
-    "0-1": "MCU Temperature alert",
+    "0-0": "MCU Temperature alert",
+    "0-1": "0x0001",
     "0-2": "Error in the  \ndevice or  \nambient  \ntemperature is  \nout of LR-D1’s  \noperational  \ntemperature",
     "0-3": "Stop using and contact  \nAinstein",
-    "1-0": "0x0002",
-    "1-1": "MCU Voltage alert",
+    "1-0": "MCU Voltage alert",
+    "1-1": "0x0002",
     "1-2": "Error in the device",
     "1-3": "Stop using and contact  \nAinstein for evaluation.",
-    "2-0": "0x0010",
-    "2-1": "IF temperature alert",
+    "2-0": "IF temperature alert",
+    "2-1": "0x0010",
     "2-2": "Error in the  \ndevice or ambient  \ntemperature is  \nout of the LR-D1’s  \noperational  \ntemperature",
-    "2-3": "Improve the heat dissipation.  \nIf the issue still remains, stop  \nusing and contact Ainstein    \n  \nNote: Long time operation in  \nthe static scenario (e.g. indoor  \ntesting) might bump the  \ntemperature significantly and  \nreport this alert code",
-    "3-0": "0x0080",
-    "3-1": "IF signal saturation  \nalert",
+    "2-3": "Improve the heat dissipation.  \nIf the issue still remains, stop  \nusing and contact Ainstein  \n  \nNote: Long time operation in  \nthe static scenario (e.g. indoor  \ntesting) might bump the  \ntemperature significantly and  \nreport this alert code",
+    "3-0": "IF signal saturation  \nalert",
+    "3-1": "0x0080",
     "3-2": "The reflection  \nsignal received  \nby LR-D1 is  \noverloaded",
     "3-3": "Occurs when LR-D1 is within  \n1.4m of the ground.  \nCheck if there is any other  \ntarget within LR-D1’s FoV",
-    "4-0": "0x0100",
-    "4-1": "Software alert",
+    "4-0": "Software alert",
+    "4-1": "0x0100",
     "4-2": "Malfunctions  \noccur in the  \nsoftware",
     "4-3": "Stop using and contact  \nAinstein",
-    "5-0": "0x0400",
-    "5-1": "Altitude reading  \noverflow alert",
+    "5-0": "Altitude reading  \noverflow alert",
+    "5-1": "0x0400",
     "5-2": "The altitude  \nreading is  \ngreater than  \nthe maximum  \ninteger of  \n16-bit (655.35  \nmeters)",
     "5-3": "Occurs when LR-D1 detects  \nthe altitude is greater than  \n655.35 meters.",
-    "6-0": "0x8000",
-    "6-1": "Voltage alert",
+    "6-0": "Voltage alert",
+    "6-1": "0x8000",
     "6-2": "Error in device  \nby over-voltage  \nor under-voltage",
-    "6-3": "Check the supply-voltage.  \nRecommended voltage range  \nis 12~28V    \n  \nNote: Minimum of 10V of  \nsupply-voltage is sufficient to  \noperate the device, however  \nit might trigger this alert code."
+    "6-3": "Check the supply-voltage.  \nRecommended voltage range  \nis 12~28V  \n  \nNote: Minimum of 10V of  \nsupply-voltage is sufficient to  \noperate the device, however  \nit might trigger this alert code."
   },
   "cols": 4,
   "rows": 7,
