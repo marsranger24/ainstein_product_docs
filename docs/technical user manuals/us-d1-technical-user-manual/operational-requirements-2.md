@@ -43,5 +43,4 @@ performance.
 ## 3.6 Minimum and Maximum Operating Altitude
 
 Operating the US-D1 at altitudes below 0.5 meters and above 50 meters will result in a  
-degradation of performance and potentially erroneous measurements.  
-Proprietary information
+degradation of performance and potentially erroneous measurements.
