@@ -91,6 +91,8 @@ code table in the Appendix 1 for details.
 
 **Note:**
 
+<br />
+
 1. Please see Appendix 1 for details about malfunction information.
 2. Altitude Data Parse: Altitude = (high_h \* 256) + high_l; unit: 0.01 m (cm); Type: Unsigned  
    \*\*\_Note_:\*\* If ‘Out of Range Indication’ is 0, the altitude will show ‘0.’
