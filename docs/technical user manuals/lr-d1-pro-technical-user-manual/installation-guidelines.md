@@ -21,28 +21,13 @@ direction while the device is fastened to the aircraft.
         ""
       ],
       "align": "center",
-      "border": true
+      "border": true,
+      "caption": "**Figure 1: Mounting Angle of the LR-D1 Pro**"
     }
   ]
 }
 [/block]
 
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-**Figure 1: Mounting Angle of the LR-D1 Pro**
 
 ## 2.2 Mounting to an Aircraft
 
