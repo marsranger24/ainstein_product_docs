@@ -17,6 +17,6 @@ metadata:
 
 **The Buyer and/or end-user will be solely responsible for the final disposal of all products.**
 
-## Notice
+# Notice
 
 **All images shown in this manual are for illustrative purposes only and may not be exact representations of the actual product ordered. Features may not be exactly the same. Due to product improvements or changes in specifications and in order to improve user experience, all instructions in this manual are subject to change without notice.**
