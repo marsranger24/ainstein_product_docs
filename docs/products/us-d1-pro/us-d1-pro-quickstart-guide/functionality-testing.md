@@ -87,3 +87,7 @@ Data packet #1 can be read as follows:
 | Hour | Minute | Second | Alt. (MSB) | Alt. (LSB) | SNR (MSB) | SNR (LSB) | Confidence | Velocity | Counter | Reserved |
 | ---- | ------ | ------ | :--------- | :--------- | :-------- | :-------- | :--------- | :------- | :------ | :------- |
 | 12   | 51     | 07     | 4          | 150        | 0         | 45        | 100        | 0        | 0       | 0        |
+
+The altitude in the data packet is calculated through the following formula:
+
+alt (m) = \[(Alt_MSB x 2<sup>8</sup>) + Alt_MSB] x 0.01
