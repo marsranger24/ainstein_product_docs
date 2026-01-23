@@ -87,4 +87,4 @@ The data packet can be read as follows:
 The altitude in the data packet is calculated through the following formula:  
 alt m=Alt2 ×28+Alt1×0.01
 
-alt (m) = \[(Alt2 x (2<sup>2</sup>) + Alt1] x 0.01
+alt (m) = \[(Alt2 x 2<sup>8</sup>) + Alt1] x 0.01
