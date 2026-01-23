@@ -1,7 +1,7 @@
 ---
 title: Firmware Update Instructions
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
