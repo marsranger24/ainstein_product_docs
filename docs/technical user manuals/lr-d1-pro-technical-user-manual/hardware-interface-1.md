@@ -1,7 +1,7 @@
 ---
 title: Hardware Interface
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
