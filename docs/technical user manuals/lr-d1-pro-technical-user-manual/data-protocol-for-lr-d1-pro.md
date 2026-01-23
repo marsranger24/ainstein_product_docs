@@ -1,7 +1,7 @@
 ---
 title: Data Protocol for LR-D1 Pro
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
