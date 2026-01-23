@@ -1,7 +1,7 @@
 ---
 title: Radiated Emissions
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
