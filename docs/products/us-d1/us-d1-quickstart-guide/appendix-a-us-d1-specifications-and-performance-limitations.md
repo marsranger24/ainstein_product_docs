@@ -5,6 +5,23 @@ hidden: false
 metadata:
   robots: index
 ---
+| Parameter                     | Value                                     |
+| ----------------------------- | ----------------------------------------- |
+| Frequency Band                | 24 GHz                                    |
+| Bandwidth                     | 190 MHz                                   |
+| Minimum Operating Altitude    | 0.5 meters                                |
+| Maximum Operating Altitude    | 50 meters                                 |
+| Altitude Precision            | 6.0 cm (\< 1m), 4.0 cm (> 1m), 2% (> 10m) |
+| Field of View                 | 43° x 30°                                 |
+| Compatible Interfaces         | UART, CAN, DroneCAN                       |
+| Update Rate                   | 100Hz                                     |
+| Supply Voltage                | 5V ~ 13V DC (5.5V recommended)            |
+| Power Consumption             | 2W                                        |
+| Operational Temperature Range | \-20 °C ~ 65°C                            |
+| Size                          | 108 x 79 x 20 millimeters                 |
+| Weight                        | 110 Grams                                 |
+| Environmental Tolerance Grade | IP67 (with sealant)                       |
+
 _All specifications above are measured in an environment with 35 °C temperature, standard atmospheric pressure, and humidity without electromagnetic interference (EMI).  
 The Operational Temperature Range indicates that radar works properly in this range. If the operating temperature goes beyond this range, the radar might not be accurate and can suffer mechanical damage.  
 The radar unit can be shipped with either CAN or UART for its output data protocol._
