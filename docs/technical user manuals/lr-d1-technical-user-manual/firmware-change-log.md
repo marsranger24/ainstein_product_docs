@@ -1,7 +1,7 @@
 ---
 title: Firmware Change Log
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
