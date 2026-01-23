@@ -7,7 +7,7 @@ excerpt: >-
   updating the LR-D1 firmware, and changing the interface standard of the serial
   port are detailed below.
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
