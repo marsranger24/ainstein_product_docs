@@ -1,7 +1,7 @@
 ---
 title: 'Appendix 1: Malfunction Alert Information List'
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
