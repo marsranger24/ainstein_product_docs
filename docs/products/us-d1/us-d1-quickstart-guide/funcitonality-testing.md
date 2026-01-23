@@ -30,7 +30,7 @@ metadata:
 
 ### Figure 1: US-D1 Molex Cabling Interface
 
-## Connecting the Tool
+## Connecting to the Tool
 
 <br />
 
@@ -67,3 +67,24 @@ To connect the US-D1 to the Radar Altimeter Test Tool, follow the instructions b
 ![](https://files.readme.io/706b5b9e34faef96ba4f23f59e7266739543a733a1092b35047d241116878cf2-image.png)
 
 ### Figure 5. Saved Data will be Itemized by the Timestamp
+
+# How to Read US-D1's Collected Data
+
+This section describes how to retrieve and parse data from the US-D1 separately from the US-D1 Test Tool. An example of data collected has been presented in Figure 6.
+
+![](https://files.readme.io/df278b201c4872c6dbf17c9e4349ffe24a6214cc34350a169b32d63832ab4434-image.png)
+
+### Figure 6. Data Packets from the US-D1 will be in the Above Format
+
+The data packet can be read as follows:
+
+### Data Packet Information
+
+| Hour | Minute | Second | Version ID | Alt 1 | Alt 2 | SNR | Checksum |
+| ---- | ------ | ------ | :--------- | :---- | :---- | :-- | :------- |
+| 06   | 18     | 24     | 2          | 68 cm | 0 cm  | 22  | 92       |
+
+The altitude in the data packet is calculated through the following formula:  
+alt m=Alt2 ×28+Alt1×0.01
+
+$$E = mc^2$$
