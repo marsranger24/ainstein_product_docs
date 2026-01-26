@@ -5,7 +5,7 @@ hidden: true
 metadata:
   robots: index
 ---
-**Note that customer questions are bolded and italicized while Ainstein responses are not.** 
+> 📘 Note that customer questions are in **bolded** and _italicized_ while Ainstein responses are not.
 
 ## US-D1 Data Processing
 
