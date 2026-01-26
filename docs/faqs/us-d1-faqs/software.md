@@ -126,22 +126,24 @@ To set up the US-D1 DroneCAN interface with Mission Planner, perform the followi
 
 1. Once the US-D1 is connected, open Mission Planner and connect to the flight controller.
 2. Edit the following parameters, then restart the flight controller:
-   - CAN_P1_DRIVER = 1 (first can port driver set to driver 1)
-   - CAN_D1_PROTOCOL = 1 (DroneCAN protocol for driver 1)
-   - RNGFNDx_TYPE = 24 (enable DroneCAN rangefinder type)
-   - RNGFNDx_MIN_CM = 50
-   - RNGFNDx_MAX_CM = 4500
+
+- CAN_P1_DRIVER = 1 (first can port driver set to driver 1)
+- CAN_D1_PROTOCOL = 1 (DroneCAN protocol for driver 1)
+- RNGFNDx_TYPE = 24 (enable DroneCAN rangefinder type)
+- RNGFNDx_MIN_CM = 50
+- RNGFNDx_MAX_CM = 4500
 
 To set up the US-D1 UART interface with Mission Planner, perform the following steps:
 
 1. Once the US-D1 is connected, open Mission Planner and connect to the flight controller.
 2. Edit the following parameters, then restart the flight controller:
-   - SERIALx_PROTOCOL = 9 (Rangefinder)
-   - SERIALx_BAUD = 115 (115200 baud)
-   - RNGFNDx_TYPE = 11 (USD1-Serial)
-   - RNGFNDx_MIN = 0.5
-   - RNGFNDx_MAX = 45
-   - RNGFNDx_GNDCLR = 0.1 \_or more accurately the distance in centimeters from the range finder to the ground when the vehicle is landed. This value depends on how the rangefinder is mounted_.
+
+- SERIALx_PROTOCOL = 9 (Rangefinder)
+- SERIALx_BAUD = 115 (115200 baud)
+- RNGFNDx_TYPE = 11 (USD1-Serial)
+- RNGFNDx_MIN = 0.5
+- RNGFNDx_MAX = 45
+- RNGFNDx_GNDCLR = 0.1 \_or more accurately the distance in centimeters from the range finder to the ground when the vehicle is landed. This value depends on how the rangefinder is mounted_.
 
 **_II. Is the US-D1 plug and play with PX4, and what are the setup instructions?_**
 
@@ -150,10 +152,11 @@ Yes, the US-D1 can easily be used with PX4 via DroneCAN and UART. The parameter 
 To set up the US-D1 DroneCAN interface with PX4, perform the following steps:
 
 1. Once the US-D1 is connected, open QGroundControl and perform the following steps:
-   - UAVCAN_ENABLE= 2 or 3 (Option 2 enables the DroneCAN driver for sensors with the DNA server enabled, and option 3 enables the DroneCAN driver for sensors and ESCs with the DNA server enabled)
-   - Enable the UAVCAN_SUB_RNG parameter
-   - UAVCAN_RNG_MIN = 0.5 m
-   - UAVCAN_RNG_MAX = 50 m
+
+- UAVCAN_ENABLE= 2 or 3 (Option 2 enables the DroneCAN driver for sensors with the DNA server enabled, and option 3 enables the DroneCAN driver for sensors and ESCs with the DNA server enabled)
+- Enable the UAVCAN_SUB_RNG parameter
+- UAVCAN_RNG_MIN = 0.5 m
+- UAVCAN_RNG_MAX = 50 m
 
 Additionally, the following [link](https://docs.px4.io/main/en/dronecan/) provides an in-depth description of DroneCAN and its compatibility with PX4, along with a guide on how to enable a rangefinder via DroneCAN.
 
