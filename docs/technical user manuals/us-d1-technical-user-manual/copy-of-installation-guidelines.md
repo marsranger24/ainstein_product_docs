@@ -1,5 +1,5 @@
 ---
-title: Copy of Installation Guidelines
+title: Installation Guidelines
 excerpt: >-
   The following instructions are critical to the proper operation of the US-D1
   device. Failure to install the unit according to the given instructions can
