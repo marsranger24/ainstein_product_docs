@@ -9,7 +9,7 @@ hidden: true
 metadata:
   robots: index
 ---
-> 📘 **Warning!** Follow the manufacturer's regulations when mounting, modifying, repairing, and maintaining equipment. The manufacturer assumes no responsibility for any accidents caused by incorrectly mounted or incorrectly maintained equipment. The manufacturer assumes no responsibility for the system being incorrectly applied, or the system being programmed in a manner that jeopardizes safety.
+> 📘 **Warning!**  Follow the manufacturer's regulations when mounting, modifying, repairing, and maintaining equipment. The manufacturer assumes no responsibility for any accidents caused by incorrectly mounted or incorrectly maintained equipment. The manufacturer assumes no responsibility for the system being incorrectly applied, or the system being programmed in a manner that jeopardizes safety.
 
 <br />
 
