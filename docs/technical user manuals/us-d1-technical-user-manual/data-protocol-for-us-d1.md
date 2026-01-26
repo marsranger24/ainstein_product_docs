@@ -31,3 +31,8 @@ A single data packet consists of six(6) bytes. Table 2 defines the packet struct
   ]
 }
 [/block]
+
+
+**Table 2: UART Data Packet Definition**
+
+A single data packet consists of six(6) bytes. Table 2 defines the packet structure.
