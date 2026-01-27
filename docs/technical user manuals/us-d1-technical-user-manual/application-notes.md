@@ -1,7 +1,7 @@
 ---
 title: Application Notes
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
