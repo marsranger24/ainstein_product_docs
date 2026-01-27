@@ -5,13 +5,14 @@ hidden: false
 metadata:
   robots: index
 ---
-[Click here](https://ainstein.ai/wp-content/uploads/US-D1-Technical-User-Manual-3.pdf) to access the US-D1 Technical User Manual.
+[Click here](https://github.com/marsranger24/ainstein_product_docs/raw/refs/heads/v1.0/downloads/US-D1%20Technical%20User%20Manual.zip) to access the US-D1 Technical User Manual.
 
 ## Ainstein US-D1 Technical User Manual
 
 Copyright 2025 © Ainstein AI, Inc. All rights reserved. No part of this work may be reproduced, published, or distributed in any form or by any means (electronically, mechanically, photocopying, recording, or otherwise), or stored in a database retrieval system, without the prior written permission of Ainstein AI, Inc. in each instance.
 
-> 📘 **Warning!**  
+> 📘 **Warning!**
+> 
 > FAILURE OR IMPROPER SELECTION OR IMPROPER USE OF THE PRODUCTS  
 > AND/OR SYSTEMS DESCRIBED HEREIN OR RELATED ITEMS CAN CAUSE  
 > DEATH, PERSONAL INJURY AND PROPERTY DAMAGE.  
