@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-## 7. US-D1 Mechanical Specifications
+## 6. US-D1 Mechanical Specifications
 
 [block:image]
 {
@@ -14,7 +14,7 @@ metadata:
       "image": [
         "https://files.readme.io/86e766a395e4cbf264482abc45ba1b8186980ba87f89601b97e6e0251f5daef7-Screenshot_2026-01-27_at_1.45.19_AM.png",
         "",
-        ""
+        "**Figure 3: Dimensions of US-D1 (Units: mm)**"
       ],
       "align": "center",
       "border": true,
