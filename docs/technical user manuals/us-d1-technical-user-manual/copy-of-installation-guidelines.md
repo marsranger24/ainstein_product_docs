@@ -19,8 +19,6 @@ When mounting the device, the front face of the US-D1 beam must be perpendicular
 the ground below the aircraft. There should not be any angle of inclination in any  
 direction while the device is fastened to the aircraft
 
-**Figure 1**
-
 [block:image]
 {
   "images": [
@@ -30,27 +28,14 @@ direction while the device is fastened to the aircraft
         "",
         ""
       ],
-      "align": "left",
-      "border": true
+      "align": "center",
+      "border": true,
+      "caption": "**Figure 1**"
     }
   ]
 }
 [/block]
 
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
 
 ## 2.2 Mounting to an Aircraft
 
@@ -66,8 +51,6 @@ Obstructions to the US-D1’s field of view will cause a decrease in the perform
 radar. It is highly recommended that the US-D1 be mounted on the underside of the  
 aircraft far away from the landing gear, other aircraft structures, or other equipment.
 
-**Figure 2**
-
 [block:image]
 {
   "images": [
@@ -77,8 +60,9 @@ aircraft far away from the landing gear, other aircraft structures, or other equ
         "",
         ""
       ],
-      "align": "left",
-      "border": true
+      "align": "center",
+      "border": true,
+      "caption": "**Figure 2**"
     }
   ]
 }
