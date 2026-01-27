@@ -1,7 +1,7 @@
 ---
 title: Software Support Questions
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
