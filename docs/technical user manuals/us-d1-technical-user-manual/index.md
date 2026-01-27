@@ -13,8 +13,6 @@ Copyright 2025 © Ainstein AI, Inc. All rights reserved. No part of this work ma
 
 ***
 
-<br />
-
 ## IMPORTANT NOTICE
 
 This device complies with Part 15 of the FCC rules. Operation is subject to the following  
@@ -31,8 +29,6 @@ This equipment has been tested and found to comply with the limits for a Class B
 - Maintain 20cm of separation for the device during operation.
 
 ***
-
-<br />
 
 ## IMPORTANT NOTICE
 
@@ -54,5 +50,4 @@ aux appareils radio exempts de licence. L’exploitation est autorisée aux deux
 suivantes :
 
 1. L’appareil ne doit pas produire de brouillage;
-2. L’appareil doit accepter tout brouillage radioélectrique subi, même si le  
-   brouillage est susceptible d’en compromettre le fonctionnement.
+2. L’appareil doit accepter tout brouillage radioélectrique subi, même si le brouillage est susceptible d’en compromettre le fonctionnement.
