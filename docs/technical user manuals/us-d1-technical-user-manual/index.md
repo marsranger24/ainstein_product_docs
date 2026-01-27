@@ -11,6 +11,29 @@ metadata:
 
 Copyright 2025 © Ainstein AI, Inc. All rights reserved. No part of this work may be reproduced, published, or distributed in any form or by any means (electronically, mechanically, photocopying, recording, or otherwise), or stored in a database retrieval system, without the prior written permission of Ainstein AI, Inc. in each instance.
 
+> 📘 **Warning!**  
+> FAILURE OR IMPROPER SELECTION OR IMPROPER USE OF THE PRODUCTS  
+> AND/OR SYSTEMS DESCRIBED HEREIN OR RELATED ITEMS CAN CAUSE  
+> DEATH, PERSONAL INJURY AND PROPERTY DAMAGE.  
+> • This document and other information from Ainstein AI Inc, its subsidiaries and  
+> authorized  
+> distributors provide product and/or system options for further investigation by users  
+> having technical expertise.  
+> • The user, through its own analysis and testing, is solely responsible for making the  
+> final selection of the system and components and assuring that all performance,  
+> endurance, maintenance, safety and warning requirements of the application are met.  
+> The user must analyze all aspects of the application, follow applicable industry  
+> standards, and follow the information concerning the product in the current product  
+> catalog and in any other materials provided from Ainstein or its subsidiaries or  
+> authorized distributors.  
+> • To the extent that Ainstein or its subsidiaries or authorized distributors provide  
+> component or system options based upon data or specifications provided by the user,  
+> the user is responsible for determining that such data and specifications are suitable  
+> and sufficient for all applications and reasonably foreseeable uses of the components  
+> or systems.  
+> • The Buyer and/or end-user will be solely responsible for final disposal of all  
+> products.
+
 ***
 
 ## IMPORTANT NOTICE
