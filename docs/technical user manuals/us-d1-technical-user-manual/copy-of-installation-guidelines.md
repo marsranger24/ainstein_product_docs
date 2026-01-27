@@ -69,24 +69,6 @@ aircraft far away from the landing gear, other aircraft structures, or other equ
 [/block]
 
 
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
 ## 2.4. Integration Requirements
 
 The US-D1 outputs altitude measurements and signal-to-noise ratio (SNR)  
