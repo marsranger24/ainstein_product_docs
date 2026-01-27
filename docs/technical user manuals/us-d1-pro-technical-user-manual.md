@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-[Click here](https://ainstein.ai/wp-content/uploads/US-D1-Pro-Technical-User-Manual.pdf) to access the US-D1 Pro Technical User Manual.
+[Click here](http://ainstein.ai/wp-content/uploads/US-D1-Pro-Technical-User-Manual-3.pdf) to access the US-D1 Pro Technical User Manual.
 
 ## Ainstein US-D1 Pro Technical User Manual
 
