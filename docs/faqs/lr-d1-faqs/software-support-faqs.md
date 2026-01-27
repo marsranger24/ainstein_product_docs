@@ -97,7 +97,8 @@ From firmware v19.0.0.1, two data sections in the LR-D1 are related to the Radar
         "",
         ""
       ],
-      "align": "center"
+      "align": "center",
+      "border": true
     }
   ]
 }
