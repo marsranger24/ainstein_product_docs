@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-[CLICK HERE] to download the PDF.
+\[[CLICK HERE](<>)] to download the PDF.
 
 ## Ainstein LR-D1 Technical User Manual
 
