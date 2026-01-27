@@ -5,21 +5,6 @@ hidden: false
 metadata:
   robots: index
 ---
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/560cd10e717f47428774a36db80811754f805af39423e1f97efa6a34c49c37ef-1.png",
-        null,
-        null
-      ],
-      "align": "center",
-      "sizing": "-6px"
-    }
-  ]
-}
-[/block]
+![](https://files.readme.io/4f94cce80f24aaae5f275ed7c48e3c3c104af8720592bedef3d03076a7f1016d-1.png)
 
-
-![](https://files.readme.io/c172e9fe4e41e79808e4c18914083a65444d026a3136f083093a932c4067c6f6-2.png)
+![](https://files.readme.io/8b358062f6d9949fcfab09cfc3766510a606c5996e58dced66b120a1ebc91007-2.png)

@@ -11,8 +11,6 @@ Copyright 2026 © Ainstein AI, Inc. All rights reserved. No part of this work ma
 
 ## LR-D1 Temperature Information
 
-<br />
-
 <Table align={["left","center"]}>
   <thead>
     <tr>
@@ -23,44 +21,44 @@ Copyright 2026 © Ainstein AI, Inc. All rights reserved. No part of this work ma
   <tbody>
     <tr>
       <td style="text-align: left;">LR-D1 Operating Temperature</td>
-      <td style="text-align: center;">-40°C ~ 60°C</td>
+      <td style="text-align: left;">-40°C ~ 60°C</td>
     </tr>
     <tr>
       <td style="text-align: left;">Low Extreme Ambient Temperature Under Testing</td>
-      <td style="text-align: center;">-40°C</td>
+      <td style="text-align: left;">-40°C</td>
     </tr>
     <tr>
       <td style="text-align: left;">Low Extreme Ambient Temperature Duration Under Testing</td>
-      <td style="text-align: center;">2 Hours</td>
+      <td style="text-align: left;">2 Hours</td>
  		</tr>
     <tr>
       <td style="text-align: left;">Low Extreme Ambient Temperature Boosting Pass Rate</td>
-      <td style="text-align: center;">>99%</td>
+      <td style="text-align: left;">>99%</td>
     </tr>
     <tr>
       <td style="text-align: left;">Low Extreme Ambient Temperature for On-Board Temperature Rise
 </td>
-      <td style="text-align: center;"><33°C</td>
+      <td style="text-align: left;"><33°C</td>
     </tr>
     <tr>
       <td style="text-align: left;">High Extreme Ambient
 Temperature Under Testing</td>
-      <td style="text-align: center;">85°C</td>
+      <td style="text-align: left;">85°C</td>
     </tr>
     <tr>
       <td style="text-align: left;">High Extreme Ambient
 Temperature Duration Under
 Testing</td>
-      <td style="text-align: center;">1.5 Hours</td>
+      <td style="text-align: left;">1.5 Hours</td>
     </tr>
     <tr>
       <td style="text-align: left;">High Extreme Ambient
 Temperature Booting Pass Rate</td>
-      <td style="text-align: center;">N.A.</td>
+      <td style="text-align: left;">N.A.</td>
     </tr>
     <tr>
       <td style="text-align: left;">High Extreme Ambient Temperature for On-Board Temperature Rise</td>
-      <td style="text-align: center;"><26°C</td>
+      <td style="text-align: left;"><26°C</td>
     </tr>
   </tbody>
 </Table>
@@ -79,7 +77,7 @@ Temperature Booting Pass Rate</td>
   <tbody>
     <tr>
       <td style="text-align: left;">Shock Acceleration</td>
-      <td style="text-align: center;">20 Gs</td>
+     <td style="text-align: center;">20 Gs</td>
     </tr>
     <tr>
       <td style="text-align: left;">Shock Pulse Duration</td>
