@@ -26,7 +26,7 @@ direction while the device is fastened to the aircraft
       "image": [
         "https://files.readme.io/10c561735680cb210265d48b8eaafbbb43aeb3ef595e49dba81ed93241670699-Screenshot_2026-01-22_at_1.57.34_AM.png",
         "",
-        ""
+        "**Figure 1**"
       ],
       "align": "center",
       "border": true,
@@ -51,6 +51,8 @@ Obstructions to the US-D1’s field of view will cause a decrease in the perform
 radar. It is highly recommended that the US-D1 be mounted on the underside of the  
 aircraft far away from the landing gear, other aircraft structures, or other equipment.
 
+<br />
+
 [block:image]
 {
   "images": [
@@ -58,7 +60,7 @@ aircraft far away from the landing gear, other aircraft structures, or other equ
       "image": [
         "https://files.readme.io/bf32ed12f2182f0d9e8d718750bc5e3e5d88368fa730244c73eac84eafd6ee1d-Screenshot_2026-01-21_at_11.56.14_PM.png",
         "",
-        ""
+        "**Figure 2**"
       ],
       "align": "center",
       "border": true,
