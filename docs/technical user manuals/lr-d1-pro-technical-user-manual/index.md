@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-[Click here](https://github.com/marsranger24/ainstein_product_docs/blob/b382bf2e660a88f945347826abe85a58bb65f7de/downloads/LR-D1%20Pro%20Technical%20User%20Manual.pdf) to access the LR-D1 Pro Technical User Manual.
+[Click here](<>) to access the LR-D1 Pro Technical User Manual.
 
 ## Ainstein LR-D1 Pro Technical User Manual
 
