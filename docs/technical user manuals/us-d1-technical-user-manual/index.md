@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-[CLICK HERE] to download the PDF.
+[Click here](https://ainstein.ai/wp-content/uploads/US-D1-Technical-User-Manual-3.pdf) to access the US-D1 Technical User Manual.
 
 ## Ainstein US-D1 Technical User Manual
 
