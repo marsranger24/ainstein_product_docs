@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-\[[CLICK HERE](<>)] to download the PDF.
+[Click here](https://ainstein.ai/wp-content/uploads/LR-D1-Pro-Technical-User-Manual-V1.9.docx-1.pdf) to access the LR-D1 Technical User Manual.
 
 ## Ainstein LR-D1 Technical User Manual
 
