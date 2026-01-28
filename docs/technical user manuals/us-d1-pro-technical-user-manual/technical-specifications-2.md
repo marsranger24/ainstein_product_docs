@@ -15,7 +15,7 @@ metadata:
     "h-0": "Measurement",
     "h-1": "Specs",
     "0-0": "Operating Altitude  \n(Minimum ~ Maximum)",
-    "0-1": "(0.5m - 2m)～120m (1\\*)",
+    "0-1": "(0.5m - 2m)～120m ",
     "1-0": "Altitude Accuracy",
     "1-1": "±0.1m(@≤10m); 1% (@>10m)",
     "2-0": "Operating Velocity (Vertical)",
