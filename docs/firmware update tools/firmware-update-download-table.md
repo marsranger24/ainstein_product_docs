@@ -8,8 +8,9 @@ metadata:
 The following section contains downloadable files pertaining to update tools for Ainstein's radar altimeters.
 
 | Name                                                                                                                                                               |  Released | File Size (MB) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------: | -------------: |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------: | -------------: |
 | **📁 LR-D1**                                                                                                                                                       |           |                |
+| [LR-D1 Firmware Files](https://github.com/marsranger24/ainstein_product_docs/raw/refs/heads/v1.0/downloads/LR-D1%20FW%20Files.zip)                                 | 2026/1/21 |          0.842 |
 | [LR-D1 Update Tool](https://github.com/marsranger24/ainstein_product_docs/raw/refs/heads/v1.0/downloads/LR-D1%20and%20LR-D1%20Pro%20Update%20Tool.zip)             | 2026/1/21 |           83.3 |
 |                                                                                                                                                                    |           |                |
 | **📁 LR-D1 Pro**                                                                                                                                                   |           |                |
