@@ -1,5 +1,5 @@
 ---
-title: Firmware Update Tool Download Table
+title: Firmware Files and Update Tools Download Table
 deprecated: false
 hidden: false
 metadata:
