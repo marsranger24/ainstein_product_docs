@@ -9,7 +9,7 @@ metadata:
 
 ## Velocity/Altitude/Pitch/Roll Parameters
 
-**_I. For the integration of the LR-D1 to a fixed-wing operation, what are the capabilities of the following parameters?_**
+**_I. For the integration of the LR-D1 Pro to a fixed-wing operation, what are the capabilities of the following parameters?_**
 
 - Operational Velocity:  
   The LR-D1 Pro has been tested in flights with horizontal speeds of up to 200 m/s. The LR-D1 Pro is designed for vertical speeds of up to 30 m/s.
