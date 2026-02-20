@@ -44,4 +44,14 @@ metadata:
 
 <br />
 
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
 **_Figure 3: Dimensions of LR-D1 (Units: mm)_**
