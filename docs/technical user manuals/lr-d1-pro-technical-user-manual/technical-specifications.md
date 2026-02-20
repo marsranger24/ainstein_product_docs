@@ -15,7 +15,7 @@ metadata:
     "h-0": "Measurement",
     "h-1": "Sepcs",
     "0-0": "Frequency Band",
-    "0-1": "24~24.25 GHz  \n60~64 GHz",
+    "0-1": "24-24.25 GHz  \n60-64 GHz",
     "1-0": "Bandwidth",
     "1-1": "250 MHz  \n4 GHz",
     "2-0": "Power Consumption",
