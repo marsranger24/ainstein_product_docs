@@ -97,16 +97,6 @@ metadata:
 
 <br />
 
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
 **Note:**
 
 1. Radar data may vary over different terrains when the radar is out of its detection range.  
