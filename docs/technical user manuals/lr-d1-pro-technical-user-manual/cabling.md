@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-## 9. LR-D1 Pro Cabling 
+## 9. LR-D1 Pro Cabling
 
 The default mating connector used for the LR-D1 Pro is the BINDER 99-0425-10-08 circular connector, pictured below in Figure 6.
 
@@ -24,6 +24,14 @@ The default mating connector used for the LR-D1 Pro is the BINDER 99-0425-10-08 
 }
 [/block]
 
+
+<br />
+
+<br />
+
+<br />
+
+<br />
 
 <br />
 
@@ -55,6 +63,12 @@ The BINDER 99-0425-75-08 90° connector can be provided for an additional cost a
 
 <br />
 
+<br />
+
+<br />
+
+<br />
+
 **Figure 7: 6-Wire Cable ith BINDER 99-0425-75-08 90° Connector**
 
 [block:image]
@@ -72,6 +86,12 @@ The BINDER 99-0425-75-08 90° connector can be provided for an additional cost a
 }
 [/block]
 
+
+<br />
+
+<br />
+
+<br />
 
 <br />
 
