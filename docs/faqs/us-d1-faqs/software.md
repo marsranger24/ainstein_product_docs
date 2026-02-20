@@ -88,7 +88,7 @@ If the baud rate is 1 Mbps, it can not be connected to a CAN bus at 250 kbps. Th
 
 <br />
 
-## US-D1 Auto Pilot Connection
+## US-D1 Autopilot Connection
 
 **_I. Is the US-D1 plug and play with ArduPilot, and what are the setup instructions?_**
 
