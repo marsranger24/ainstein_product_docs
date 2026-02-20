@@ -10,4 +10,4 @@ metadata:
 next:
   description: ''
 ---
-The following section provides the product sheet, the US-D1's firmware change log, and the US-D1 QuickStart Guide.
+The following section provides the US-D1's product sheet, firmware change log, and QuickStart Guide.
