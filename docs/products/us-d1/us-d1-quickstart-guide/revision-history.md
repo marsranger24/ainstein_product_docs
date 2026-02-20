@@ -1,5 +1,5 @@
 ---
-title: Revision History
+title: QuickStart Guide - Revision History
 deprecated: false
 hidden: false
 metadata:
