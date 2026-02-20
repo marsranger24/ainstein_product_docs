@@ -16,7 +16,7 @@ Welcome to the Ainstein Customer Portal. This site is the single source of truth
 
 Use the left navigation to find your product (LR-D1, US-D1, etc.). Each product has:
 
-- **Quick Start**: fastest path to a successful bring-up
+- **Quick Start (US-D1 & US-D1 Pro Only)**: fastest path to a successful bring-up
 - **Electrical & Interfaces**: connectors, comms, pinouts, protocol notes
 - **Mechanical & Mounting**: CAD, mounting constraints, orientation guidance
 - **Software & Tools**: GUI tools, utilities, example workflows
