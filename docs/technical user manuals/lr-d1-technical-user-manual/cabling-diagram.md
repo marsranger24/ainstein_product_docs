@@ -32,6 +32,14 @@ circular connector, pictured below in Figure 4.
 
 <br />
 
+<br />
+
+<br />
+
+<br />
+
+<br />
+
 **Figure 4: 6-Wire Cable with BINDER 99-0425-10-08 Connector**
 
 The BINDER 99-0425-75-08 90° connector can be provided for an additional cost  
