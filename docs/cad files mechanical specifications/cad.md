@@ -1,5 +1,8 @@
 ---
 title: CAD Download Table
+excerpt: >-
+  The following section contains downloadable .STP files pertaining to each
+  radar altimeter
 deprecated: false
 hidden: false
 metadata:
