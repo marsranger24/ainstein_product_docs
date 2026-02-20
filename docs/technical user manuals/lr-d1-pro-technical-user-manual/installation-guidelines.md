@@ -25,7 +25,7 @@ direction while the device is fastened to the aircraft.
       "align": "center",
       "sizing": "400px",
       "border": true,
-      "caption": "Figure 1: Mounting Angle of the LR-D1 Pro"
+      "caption": "Figure 1: Mounting Angle of the US-D1"
     }
   ]
 }
@@ -56,7 +56,7 @@ equipment.
       "image": [
         "https://files.readme.io/3c612ab24e9b0e290fed4345137f0b14c8692423020d2267de6c819533d92e80-Screenshot_2026-01-21_at_11.56.14_PM.png",
         "",
-        ""
+        "Figure 2: Line of Sight Clearance of the LR-D1 Pro"
       ],
       "align": "center",
       "caption": "Figure 2: Line of Sight Clearance of the LR-D1 Pro"
