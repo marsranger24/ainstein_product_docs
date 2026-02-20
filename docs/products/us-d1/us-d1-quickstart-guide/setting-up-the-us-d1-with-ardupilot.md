@@ -1,5 +1,5 @@
 ---
-title: Setting up the US-D1 with ArduPilot
+title: QuickStart Guide - Setting up the US-D1 with ArduPilot
 deprecated: false
 hidden: false
 metadata:
