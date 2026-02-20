@@ -67,6 +67,12 @@ at the time of purchase. See Figure 5.
 
 <br />
 
+<br />
+
+<br />
+
+<br />
+
 **Figure 5: 6-Wire Cable with BINDER 99-0425-75-08 Connector**
 
 <br />
