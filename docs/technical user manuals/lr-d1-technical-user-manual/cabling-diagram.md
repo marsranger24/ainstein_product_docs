@@ -105,4 +105,10 @@ at the time of purchase. See Figure 5.
 
 <br />
 
+<br />
+
+<br />
+
+<br />
+
 **Figure 6: BINDER 99-0425-10-08 & BINDER 99-0425-75-08 Connector Dimensions.**
