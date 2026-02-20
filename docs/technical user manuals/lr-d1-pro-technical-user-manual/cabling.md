@@ -103,4 +103,8 @@ The BINDER 99-0425-75-08 90° connector can be provided for an additional cost a
 
 <br />
 
+<br />
+
+<br />
+
 **Figure 8: BINDER 99-0425-10-08 & BINDER 99-0425-75-08 Connector Dimensions.**
