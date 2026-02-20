@@ -25,7 +25,7 @@ direction while the device is fastened to the aircraft.
       "align": "center",
       "sizing": "400px",
       "border": true,
-      "caption": "Figure 1: Mounting Angle of the US-D1"
+      "caption": "Figure 1: Mounting Angle of the LR-D1 Pro"
     }
   ]
 }
@@ -44,8 +44,8 @@ materials. Any coatings, coverings, and modifications to the radome can degrade 
 performance of the radar device.
 
 Additionally, keep any unexpected objects out of the radar’s FoV (Field of View).  
-Obstructions to the US-D1’s field of view will cause a decrease in the performance  
-of the radar. It is highly recommended that the US-D1 be mounted on the underside  
+Obstructions to the LR-D1 Pro’s field of view will cause a decrease in the performance  
+of the radar. It is highly recommended that the LR-D1 Pro be mounted on the underside  
 of the aircraft far away from the landing gear, other aircraft structures, or other  
 equipment.
 
@@ -59,7 +59,7 @@ equipment.
         "Figure 2: Line of Sight Clearance of the LR-D1 Pro"
       ],
       "align": "center",
-      "caption": "Figure 2: Line of Sight Clearance of the US-D1"
+      "caption": "Figure 2: Line of Sight Clearance of the LR-D1 Pro"
     }
   ]
 }
@@ -68,16 +68,15 @@ equipment.
 
 ## 2.4. Integration Requirements
 
-The US-D1 outputs altitude measurements and signal-to-noise ratio (SNR)  
-measurements when operational. When integrating the US-D1 radar altimeter, it is  
+The LR-D1 Pro outputs altitude measurements and signal-to-noise ratio (SNR)  
+measurements when operational. When integrating the LR-D1 Pro radar altimeter, it is  
 recommended to use SNR measurements in conjunction with malfunction alerts (see  
 Appendix 1) to properly filter out erroneous altitude values.
 
 > 📘 **Caution!** Altitude measurements associated with an **SNR value of 13 dB or lower** are considered **erroneous**.
 
-The altitude measurements should not in any circumstances be used as true  
-measurements independently of the corresponding SNR values.  
-A filtering algorithm should be used to estimate vehicle position, velocity and  
-angular orientation based on rate gyroscopes, accelerometer, compass, GPS, airspeed  
-and barometric pressure measurements in addition to the recorded US-D1  
-measurements. Sensor redundancy is heavily advised for the US-D1.
+A fusion algorithm should be used to estimate vehicle position, velocity, and  
+angular orientation based on rate gyroscopes, accelerometer, compass, GPS, airspeed,  
+and barometric pressure measurements in addition to the recorded LR-D1 Pro  
+measurements. Sensor redundancy is strongly advised for use of the LR-D1 Pro in  
+mission-critical application
