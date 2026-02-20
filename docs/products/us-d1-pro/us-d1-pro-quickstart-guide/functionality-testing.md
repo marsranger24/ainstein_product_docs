@@ -1,5 +1,5 @@
 ---
-title: Functionality Testing
+title: QuickStart Guide - Functionality Testing
 deprecated: false
 hidden: false
 metadata:
