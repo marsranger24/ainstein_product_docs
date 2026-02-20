@@ -11,24 +11,7 @@ metadata:
 
 **_I. What does the firmware do to process raw data? Is the raw data filtered or averaged in any way?_**
 
-The US-D1 has a single-input and single-output antenna design for measuring range.  The radar altimeter transmits a frequency-modulated continuous wave throughout the entire FOV.  This beam is reflected off the terrain and received by the altimeter. The received data is used to construct a fast Fourier transform, where the result of the FFT is a set of amplitudes of certain frequencies, such as in the figure shown below.
-
-[block:image]
-{
-  "images": [
-    {
-      "image": [
-        "https://files.readme.io/72107b316c4e500daf3b195280a8650c2b5e4c47743ac359155ecb704de66f86-Screenshot_2026-01-26_at_4.38.00_PM.png",
-        "",
-        ""
-      ],
-      "align": "center",
-      "border": true
-    }
-  ]
-}
-[/block]
-
+The US-D1 has a single-input and single-output antenna design for measuring range.  The radar altimeter transmits a frequency-modulated continuous wave throughout the entire FOV.  This beam is reflected off the terrain and received by the altimeter. The received data is used to construct a fast Fourier transform, where the result of the FFT is a set of amplitudes of certain frequencies.
 
 Each frequency on the FFT spectrum is representative of a particular distance from the altimeter. In general, the frequency of the highest amplitude is representative of the true distance from the sensor.
 
