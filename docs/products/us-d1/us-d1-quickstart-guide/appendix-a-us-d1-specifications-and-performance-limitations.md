@@ -1,5 +1,7 @@
 ---
-title: 'Appendix A: US-D1 Specifications and Performance Limitations'
+title: >-
+  QuickStart Guide - Appendix A: US-D1 Specifications and Performance
+  Limitations
 deprecated: false
 hidden: false
 metadata:
