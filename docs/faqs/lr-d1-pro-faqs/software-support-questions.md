@@ -11,7 +11,7 @@ metadata:
 
 **_I. Can the interface type be changed?_**
 
-No, the interface type is not configurable from the user's end. Users must select the interface when placing their order. Ainstein will pre-flash and pre-configure the LR-D1 Pro from the manufacturing line. Users are suggested to reach out to [support@ainstein.ai](mailto:support@ainstein.ai) if they have any inquiries regarding the interface of their current units.
+Yes, but the interface type is not configurable from the user's end. Users must select the interface when placing their order. Ainstein will pre-flash and pre-configure the LR-D1 Pro from the manufacturing line. Users are suggested to reach out to [support@ainstein.ai](mailto:support@ainstein.ai) if they have any inquiries regarding the interface of their current units.
 
 ## Serial connection/Installation/Calibration (CAN/TTL)
 
