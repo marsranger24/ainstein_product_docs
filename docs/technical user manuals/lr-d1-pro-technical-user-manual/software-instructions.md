@@ -11,7 +11,7 @@ hidden: false
 metadata:
   robots: index
 ---
-## 10.1 Connecting the LR-D1
+## 10.1 Connecting the LR-D1 Pro
 
 1. After downloading the LR-D1 Pro Software Tool, open its containing folder and  
    launch the executable, “LR-D1-PRO_V97.237.1.0”.
