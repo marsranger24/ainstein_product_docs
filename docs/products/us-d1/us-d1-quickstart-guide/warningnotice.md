@@ -1,5 +1,5 @@
 ---
-title: Warning/Notice
+title: QuickStart Guide - Warning/Notice
 deprecated: false
 hidden: false
 metadata:
