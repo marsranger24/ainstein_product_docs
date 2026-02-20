@@ -1,5 +1,5 @@
 ---
-title: Setting up the US-D1 with PX4
+title: QuickStart Guide - Setting up the US-D1 with PX4
 deprecated: false
 hidden: false
 metadata:
