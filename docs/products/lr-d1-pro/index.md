@@ -10,4 +10,4 @@ metadata:
 next:
   description: ''
 ---
-The following section provides the product sheet, testing and certification documentation, and the LR-D1 Pro's firmware change log.
+The following section provides the LR-D1 Pro's product sheet, testing and certification documentation, and the firmware change log.
