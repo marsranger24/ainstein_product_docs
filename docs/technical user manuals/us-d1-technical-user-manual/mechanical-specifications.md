@@ -1,5 +1,5 @@
 ---
-title: Mechanical Specifications
+title: Mechanical Drawing
 deprecated: false
 hidden: false
 metadata:
