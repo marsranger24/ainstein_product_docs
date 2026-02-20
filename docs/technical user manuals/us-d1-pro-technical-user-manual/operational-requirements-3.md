@@ -15,7 +15,7 @@ Objects or aircraft structures that are located within the US-D1 Pro’s conical
 
 ## 3.2 Excessive Pitch/Roll
 
-Pitch and roll angles that exceed 20° and 20°, respectively, may also cause the performance of the US-D1 Pro to worsen. This sensitivity increases with altitude.
+Pitch and roll angles that exceed ±20° and ±20°, respectively, may also cause the performance of the US-D1 Pro to worsen. This sensitivity increases with altitude.
 
 ## 3.3 Terrain
 
