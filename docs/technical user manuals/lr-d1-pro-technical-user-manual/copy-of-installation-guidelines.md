@@ -1,7 +1,7 @@
 ---
-title: Copy of Installation Guidelines
+title: Installation Guidelines
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
