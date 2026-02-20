@@ -1,5 +1,5 @@
 ---
-title: Setting up the US-D1 Pro with DroneCAN
+title: QuickStart Guide - Setting up the US-D1 Pro with DroneCAN
 deprecated: false
 hidden: false
 metadata:
