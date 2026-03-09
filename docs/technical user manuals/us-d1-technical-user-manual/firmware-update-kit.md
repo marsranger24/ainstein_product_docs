@@ -7,7 +7,7 @@ metadata:
 ---
 ## 10. US-D1 Firmware Update Kit
 
-The US-D1 Firmware Update Kit is an external device that can update the firmware of the US-D1 radar altimeter. The Firmware Update Kit contains an update tool (the auxiliary board hardware), a USB connector, and a power cable. The Kit connects the US-D1 to the Firmware Update Tool via a USB port, which allows the user to load and flash new firmware versions onto the device. The Kit can be purchased directly from Ainstein. The US-D1 Firmware Update Kit was designed to update the existing US-D1 firmware via the serial port on a PC. The update tool hardware is required to connect to all US-D1 units, regardless of UART/CAN/DroneCAN interface and baud rate to be recognized, configured, and flashed. Once the US-D1 unit is connected to the PC through the Auxiliary Board, the US-D1’s information can be queried, including the hardware version, firmware version, interface type, and baud rate.
+The US-D1 Firmware Programming Kit is an external device that can update the firmware of the US-D1 radar altimeter. The Firmware Update Kit contains an update tool (the auxiliary board hardware), a USB connector, and a power cable. The Kit connects the US-D1 to the Firmware Update Tool via a USB port, which allows the user to load and flash new firmware versions onto the device. The Kit can be purchased directly from Ainstein. The US-D1 Firmware Update Kit was designed to update the existing US-D1 firmware via the serial port on a PC. The update tool hardware is required to connect to all US-D1 units, regardless of UART/CAN/DroneCAN interface and baud rate to be recognized, configured, and flashed. Once the US-D1 unit is connected to the PC through the Auxiliary Board, the US-D1’s information can be queried, including the hardware version, firmware version, interface type, and baud rate.
 
 ## 10.1 Hardware Connection and Software Installation
 
@@ -29,7 +29,7 @@ The US-D1 Firmware Update Kit is an external device that can update the firmware
       "image": [
         "https://files.readme.io/6c1a806722cf328a6491860aca010fec6558629d80109143d4364e71368c9254-Screenshot_2026-01-27_at_2.01.38_AM.png",
         "",
-        ""
+        "**Figure 6: US-D1 Firmware Update Tool (Auxiliary Board) Connection**"
       ],
       "align": "center",
       "border": true,
@@ -49,7 +49,7 @@ In this instance, ‘USB Serial Port (COM13)’ is the port that is connected to
       "image": [
         "https://files.readme.io/f41340046e0cf4f2e230abbfa2096001954ea21131dc3238ebd4391db16551f4-Screenshot_2026-01-27_at_2.02.51_AM.png",
         "",
-        ""
+        "**Figure 7: Windows Device Manager - USB Serial Ports**"
       ],
       "align": "center",
       "border": true,
@@ -73,7 +73,7 @@ The software tool titled ‘Ainstein US-D1 Firmware Update Tool’ is designed f
       "image": [
         "https://files.readme.io/ed9997ac856ecd7f26148260cd1b5fb844481406715166f302d4519082d2de2e-Screenshot_2026-01-27_at_2.04.47_AM.png",
         "",
-        ""
+        "**Figure 8: Main Window of the US-D1 Firmware Update Tool**"
       ],
       "align": "center",
       "border": true,
@@ -195,7 +195,7 @@ The software tool titled ‘Ainstein US-D1 Firmware Update Tool’ is designed f
       "image": [
         "https://files.readme.io/078bb5905ac62443859b123c0cd5728289a8e848b0cf322619c4069887195713-Screenshot_2026-01-27_at_2.14.15_AM.png",
         "",
-        ""
+        "**Figure 9: How to Connect the Auxiliary Board over the Serial Port**"
       ],
       "align": "center",
       "border": true,
@@ -215,7 +215,7 @@ If the operation is performed successfully, the following pop-up window will be 
       "image": [
         "https://files.readme.io/b7b0f13bf9fe233b884c76e2a69c951d474a4a11b26f080cba3bea35533cfdf4-Screenshot_2026-01-27_at_2.15.15_AM.png",
         "",
-        ""
+        "**Figure 10: Firmware Update board Connection**"
       ],
       "align": "center",
       "caption": "**Figure 10: Firmware Update board Connection**"
@@ -234,7 +234,7 @@ The “Connect” button will turn green.
       "image": [
         "https://files.readme.io/a5a4acbdf9ea3c22cd551b250340cc523b1cb129d7e344ef5f57a9b365105921-Screenshot_2026-01-27_at_2.15.56_AM.png",
         "",
-        ""
+        "**Figure 11: ”Connect” Button Before Connection**"
       ],
       "align": "center",
       "caption": "**Figure 11: ”Connect” Button Before Connection**"
@@ -251,7 +251,7 @@ The “Connect” button will turn green.
       "image": [
         "https://files.readme.io/e909d489f96283859b8e8c5e7d4d2c49a20206613090965d9304238285f40ce9-Screenshot_2026-01-27_at_2.16.35_AM.png",
         "",
-        ""
+        "**Figure 12: ”Connect” Button After Connection**"
       ],
       "align": "center",
       "caption": "**Figure 12: ”Connect” Button After Connection**"
@@ -272,7 +272,7 @@ The “Connect” button will turn green.
       "image": [
         "https://files.readme.io/a453e983cebe96976e9112ba65bdcba05feb2cbfa2b1e2e3d4b9a50c5bf0f8c5-Screenshot_2026-01-27_at_2.17.38_AM.png",
         "",
-        ""
+        "**Figure 13: US-D1 Firmware Update Board Connection**"
       ],
       "align": "center",
       "caption": "**Figure 13: US-D1 Firmware Update Board Connection**"
@@ -293,7 +293,7 @@ The “Connect” button will turn green.
       "image": [
         "https://files.readme.io/ca62fd6b537e8f94add163637097dc4ccdcabfe6dd4d5303ccef6e82b97133fb-Screenshot_2026-01-27_at_2.20.12_AM.png",
         "",
-        ""
+        "**Figure 14: ”Connect Radar” Button**"
       ],
       "align": "center",
       "caption": "**Figure 14: ”Connect Radar” Button**"
@@ -312,7 +312,7 @@ If the connection is successful, the following window will pop up with a message
       "image": [
         "https://files.readme.io/b3d9ffb1d50a2609a10120d0b52d4721f57ded47d104aa45567ae0a4c97ebd66-Screenshot_2026-01-27_at_2.21.14_AM.png",
         "",
-        ""
+        "**Figure 15: Current US-D1 Interface Type and Baud Rate**"
       ],
       "align": "center",
       "caption": "**Figure 15: Current US-D1 Interface Type and Baud Rate**"
@@ -329,7 +329,7 @@ If the connection is successful, the following window will pop up with a message
       "image": [
         "https://files.readme.io/babf5c3e3d197c4f9aa410818cb71dbaa79b306956f8585a44c6d4c1873341e2-Screenshot_2026-01-27_at_2.21.52_AM.png",
         "",
-        ""
+        "**Figure 16: Current US-D1 Parameters**"
       ],
       "align": "center",
       "caption": "**Figure 16: Current US-D1 Parameters**"
@@ -366,7 +366,7 @@ For DroneCAN users or CAN to DroneCAN users:
       "image": [
         "https://files.readme.io/dfd305617bc1c6855ebb9bfc6875ff7759b2a57bca85435846e1fa94210832b2-Screenshot_2026-01-27_at_2.25.29_AM.png",
         "",
-        ""
+        "**Figure 17: “Select File” Button**"
       ],
       "align": "center",
       "caption": "**Figure 17: “Select File” Button**"
@@ -383,7 +383,7 @@ For DroneCAN users or CAN to DroneCAN users:
       "image": [
         "https://files.readme.io/c72e9bedc077cf592f1b2b2d99f4e7431d8f1afc5f2b568b52d30a886d3257dc-Screenshot_2026-01-27_at_2.26.19_AM.png",
         "",
-        ""
+        "**Figure 18: Selecting the “.json” File**"
       ],
       "align": "center",
       "caption": "**Figure 18: Selecting the “.json” File**"
@@ -393,7 +393,7 @@ For DroneCAN users or CAN to DroneCAN users:
 [/block]
 
 
-3.  Select the .json file and click “Open”. The selected parameter values will be updated on the main window under the “Setting Value” column.
+3. Select the .json file and click “Open”. The selected parameter values will be updated on the main window under the “Setting Value” column.
 
 [block:image]
 {
@@ -402,7 +402,7 @@ For DroneCAN users or CAN to DroneCAN users:
       "image": [
         "https://files.readme.io/f322bacdfc8e02fd27f8ae0a02f376f15f616dd55d1d7f79fed426da37bfc2f8-Screenshot_2026-01-27_at_2.28.08_AM.png",
         "",
-        ""
+        "**Figure 19: “Setting Value” Parameters**"
       ],
       "align": "center",
       "caption": "**Figure 19: “Setting Value” Parameters**"
@@ -422,7 +422,7 @@ For DroneCAN users or CAN to DroneCAN users:
       "image": [
         "https://files.readme.io/3266834322d5a165c11bb0118508eb73a466495411bee6f18fb7a40adbf00f81-Screenshot_2026-01-27_at_2.29.33_AM.png",
         "",
-        ""
+        "**Figure 20: Successful Parameter Configuration Pop-Up Window**"
       ],
       "align": "center",
       "caption": "**Figure 20: Successful Parameter Configuration Pop-Up Window**"
@@ -544,7 +544,7 @@ Purchase Date After Dec 1, 2020 - Firmware Changelog
       "image": [
         "https://files.readme.io/bc8bd50d8398cdec6d13a4c8f64681c567f8cb575b2fbd5bbbbdbf140e9d7a3a-Screenshot_2026-01-27_at_2.40.53_AM.png",
         "",
-        ""
+        "**Figure 21: Select the “.bin” Firmware File**"
       ],
       "align": "center",
       "caption": "**Figure 21: Select the “.bin” Firmware File**"
@@ -561,7 +561,7 @@ Purchase Date After Dec 1, 2020 - Firmware Changelog
       "image": [
         "https://files.readme.io/05fcba982f78ad564f35898edd35a7ceb1e26377eb2582a390e722555fbfd4e4-Screenshot_2026-01-27_at_2.41.24_AM.png",
         "",
-        ""
+        "**Figure 22: Firmware Information**"
       ],
       "align": "center",
       "caption": "**Figure 22: Firmware Information**"
@@ -580,7 +580,7 @@ Purchase Date After Dec 1, 2020 - Firmware Changelog
       "image": [
         "https://files.readme.io/b9d883fc0f1100404c5ff67bf1704a27dd7877848170b2a10cd82ed3f18a8232-Screenshot_2026-01-27_at_2.42.17_AM.png",
         "",
-        ""
+        "**Figure 23: “Upload” Button**"
       ],
       "align": "center",
       "caption": "**Figure 23: “Upload” Button**"
@@ -597,7 +597,7 @@ Purchase Date After Dec 1, 2020 - Firmware Changelog
       "image": [
         "https://files.readme.io/2d09ee14b7a221ef0c5a157a2b39e6fcf9b467dbb53acfd877dac532abd12c4e-Screenshot_2026-01-27_at_2.42.44_AM.png",
         "",
-        ""
+        "**Figure 24: Successful Firmware Update Pop-Up Message**"
       ],
       "align": "center",
       "caption": "**Figure 24: Successful Firmware Update Pop-Up Message**"
@@ -618,7 +618,7 @@ Purchase Date After Dec 1, 2020 - Firmware Changelog
       "image": [
         "https://files.readme.io/e9d746f3291e6e5103e5a9980a7d415113a236af2856548ad46eb222b6056d33-Screenshot_2026-01-27_at_2.44.16_AM.png",
         "",
-        ""
+        "**Figure 25: Updated Software Version and Parameters**"
       ],
       "align": "center",
       "caption": "**Figure 25: Updated Software Version and Parameters**"
@@ -647,7 +647,7 @@ Purchase Date After Dec 1, 2020 - Firmware Changelog
       "image": [
         "https://files.readme.io/889711c592585e6fcf1aefb8d8e3e455bbd6d575d63bbeda3a3e4a4478db7e4e-Screenshot_2026-01-27_at_2.48.55_AM.png",
         "",
-        ""
+        "**Figure 26: Successful Parameter Configuration**"
       ],
       "align": "center",
       "caption": "**Figure 26: Successful Parameter Configuration**"
@@ -680,7 +680,7 @@ Purchase Date After Dec 1, 2020 - Firmware Changelog
       "image": [
         "https://files.readme.io/5343eeb7b2658621ace9e8edf6b24f35fe6e60aa4b9242e326005b74aa3d372f-Screenshot_2026-01-27_at_2.55.46_AM.png",
         "",
-        ""
+        "**Figure 27: Successful Parameter Configuration**"
       ],
       "align": "center",
       "caption": "**Figure 27: Successful Parameter Configuration**"
