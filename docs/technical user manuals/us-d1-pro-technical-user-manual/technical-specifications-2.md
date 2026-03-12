@@ -49,7 +49,7 @@ metadata:
     "16-0": "OTA Upgrade Method",
     "16-1": "- Private CAN by Ainstein’s GUI\n- DroneCAN by tools supports it (DroneCAN GUI, Mission Planner, etc)",
     "17-0": "Protection level",
-    "17-1": "IP69K",
+    "17-1": "Contact Ainstein for Details  ",
     "18-0": "Time Synchronization",
     "18-1": "- DroneCAN - Supported in the node status reporting\n- Private CAN - NOT supported"
   },
